@@ -1,0 +1,20 @@
+theme = 'mainroad'
+title = 'ISC 2025'
+
+baseURL = "https://Skku-SecAI.github.io/"
+[Params.style.vars]
+  highlightColor = "#c65616"
+
+[Params.logo]
+  image = "img/SKKU.png"
+  title = false
+  subtitle = false
+
+[Params]
+copyright = "ISC 2025"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.parser]
+      [markup.goldmark.parser.attribute]
+        block = true
