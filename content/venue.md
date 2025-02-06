@@ -31,6 +31,9 @@ _Address_: Sungkyunkwan University (Humanities and Social Sciences Campus) 25-2 
     link: https://www.ninetreehotels.com/nth3/
 -   Somerset Palace (3.5 km away, around 47 min walking ; 16 min by taxi)\
     7 Yulgok-ro 2-gil, Jongno District, Seoul\
+    link: https://www.discoverasr.com/en/somerset-serviced-residence/korea-south/somerset-palace-seoul?gad_source=1&gclid=Cj0KCQiAqL28BhCrARIsACYJvkdyaojM2Kgbxsu2FnNjJMj_fWptbhw9m9CMVKgtxQ3U3fWBWYscg9UaAl2iEALw_wcB&gclsrc=aw.ds
+-   The Ambassador Seoul (3.9 km away, around 61 min walking ; 16 min by taxi)\
+    287, Dongho-ro, Jung-gu, Seoul\
     link: https://www.ambatel.com/theambassador/seoul/ko/main.do
 -   The Plaza (4.5 km away, around 71 min walking ; 22 min by taxi)\
     119 Sogong-ro, Jung District, Seoul\
