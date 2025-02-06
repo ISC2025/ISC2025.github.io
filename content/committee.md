@@ -19,7 +19,7 @@ Nicky Mouha (Strativia & NIST Associate, USA)\
 Eiji Okamoto (University of Tsukuba)\
 Michalis Polychronakis (Stony Brook University)\
 Willy Susilo (University of Wollongong)\
-Jianying Zhou (Singapore University of Technology and Design)\
+Jianying Zhou (Singapore University of Technology and Design)
 
 **Publications Chair**\
 Yuseok Jeon (UNIST)
