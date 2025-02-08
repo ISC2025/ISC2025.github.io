@@ -15,7 +15,7 @@ academia, industry, and government on traditional as well as emerging
 topics and new paradigms in these areas, with a clear connection to
 real-world problems, systems, or applications.
 
-The 28th edition of ISC will be organized by [Sungkyunkwan University (Humanities and Social Sciences Campus in Seoul)](https://www.skku.edu/eng/).
+The 28th edition of ISC will be organized by [Sungkyunkwan University](https://www.skku.edu/eng/).
 The conference will
 be held **in-person** at the 600 Years Anniversary Hall, Sungkyunkwan University (Humanities & Social Sciences Campus).
 The proceedings of ISC 2025 will be published as
@@ -23,7 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
--   Call for Papers is [out]({{<ref "call-for-papers">}}). \[02/2025\]
+<!-- -   Call for Papers is [out]({{<ref "call-for-papers">}}). \[02/2025\] -->
 -   Website is up! \[02/2025\]
 
 ## Previous Editions of ISC

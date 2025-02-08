@@ -7,16 +7,16 @@ weight = 8
 
 ISC'25 will be held in the 600th Anniversary Memorial Hall at [the Humanities & Social Sciences Campus](https://hall.skku.edu/Hall/LectureRoom_2021.jsp) of Sungkyunkwan University (SKKU), see the location of the [venue](https://maps.app.goo.gl/5AMNxR1g75gxu5HS6) here.
 
-_Address_: Sungkyunkwan University (Humanities and Social Sciences Campus) 25-2 Seonggyungwan-ro, Jongno District, Seoul, South Korea
+_Address_: Sungkyunkwan University (Humanities & Social Sciences Campus), 25-2 Seonggyungwan-ro, Jongno District, Seoul, South Korea
 
 **Nearby Airports:**
 
 -   Incheon International Airport (ICN)
 -   Gimpo International Airport (GMP)
 
-**Transportation:** Taxi, Bus, Metro (Station: Hyehwa Statino (Line 4))
+**Transportation:** Taxi, Bus, Metro (Station: Hyehwa Station (Line 4))
 
-**Parking:** Visitor parking is available in the 600th Anniversary Memorial Hall parking garage([all day: 30,000 KRW ($21)](https://www.skku.edu/eng/About/campusinfo/parking.do)).
+**Parking:** Visitor parking is available in the 600th Anniversary Memorial Hall parking garage ([all day: 30,000 KRW ($21)](https://www.skku.edu/eng/About/campusinfo/parking.do)).
 
 **Nearby Hotels:**
 

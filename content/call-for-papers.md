@@ -36,10 +36,10 @@ Papers on all technical aspects of information security, cryptography, and priva
 
 ## Deadlines
 
-Submission Deadline: **수정 필요**\
-Rebuttal: **수정 필요**\
-Notification: **수정 필요**\
-Camera-Ready Deadline: **수정 필요**\
+Submission Deadline: **TBD**\
+Rebuttal: **TBD**\
+Notification: **TBD**\
+Camera-Ready Deadline: **TBD**\
 Conference: **October 20-22, 2025**
 
 ## Best Paper Award
