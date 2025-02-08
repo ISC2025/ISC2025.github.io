@@ -6,10 +6,12 @@ weight = 3
 +++
 
 **General Chair**\
-**수정 필요**\
+Hyungjoon Koo (Sungkyunkwan University)\
+Hojoon Lee (Sungkyunkwan University)
 
 **Program Chairs**\
-**수정 필요**\
+Sangkil Cha (KAIST)\
+Jeongeun Park (NTNU)
 
 **Steering Committee**\
 Zhiqiang Lin (The Ohio State University)\
@@ -28,17 +30,17 @@ Yuseok Jeon (UNIST)
 Hyoungshick Kim (Sungkyunkwan University)
 
 **Program Committee**\
-**수정 필요**\
+TBD
 
 **Web Team**\
 Mijin Jeon (Sungkyunkwan University)\
-Minseok Kim (Sungkyunkwan University)
+Minseok Kim
 
 **Local Organization Team**\
 Yujeong Kwon (Sungkyunkwan University)\
-Jiyong Uhm (Sungkyunkwan University)\
-Suyeon Lee (Sungkyunkwan University)\
-Minseok Kim (Sungkyunkwan University)\
-Yuldoshkhujaev Shakhzod (Sungkyunkwan University)\
-Yiyue Zhang (Sungkyunkwan University)\
-Hyoungjune Jeon (Sungkyunkwan University)
+Jiyong Uhm\
+Suyeon Lee\
+Minseok Kim\
+Yuldoshkhujaev Shakhzod\
+Yiyue Zhang\
+Hyoungjune Jeon
