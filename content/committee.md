@@ -24,7 +24,7 @@ Willy Susilo (University of Wollongong)\
 Jianying Zhou (Singapore University of Technology and Design)
 
 **Publications Chair**\
-Yuseok Jeon (UNIST)
+Yuseok Jeon (Korea University)
 
 **Publicity Chair**\
 Hyoungshick Kim (Sungkyunkwan University)
@@ -37,7 +37,8 @@ Mijin Jeon (Sungkyunkwan University)\
 Minseok Kim
 
 **Local Organization Team**\
-Yujeong Kwon (Sungkyunkwan University)\
+Hyungmin Cho (Sungkyunkwan University)\
+Yujeong Kwon\
 Jiyong Uhm\
 Suyeon Lee\
 Minseok Kim\
