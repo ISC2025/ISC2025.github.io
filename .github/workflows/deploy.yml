@@ -29,4 +29,4 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./public # public 폴더만 배포
                   publish_branch: gh-pages # gh-pages 브랜치에 업로드
-                  force_orphan: true
+                  force_orphan: true # 기존 내용 삭제 후 새로 푸시
