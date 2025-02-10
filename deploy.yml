@@ -3,7 +3,7 @@ name: Deploy Hugo Site
 on:
     push:
         branches:
-            - main # main 브랜치에 push할 때 실행됨
+            - main
 
 jobs:
     deploy:
@@ -27,3 +27,4 @@ jobs:
                   github_token: ${{ secrets.GITHUB_TOKEN }}
                   publish_dir: ./public
                   publish_branch: gh-pages
+                  force_orphan: true # 기존 내용을 덮어쓰고 새 브랜치를 만듦
