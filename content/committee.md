@@ -10,7 +10,7 @@ Hyungjoon Koo (Sungkyunkwan University)\
 Hojoon Lee (Sungkyunkwan University)
 
 **Program Chairs**\
-Sangkil Cha (KAIST)\
+Sang Kil Cha (KAIST)\
 Jeongeun Park (NTNU)
 
 **Steering Committee**\
