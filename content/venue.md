@@ -25,7 +25,7 @@ _Address_: Sungkyunkwan University (Humanities & Social Sciences Campus), 25-2 S
     link: https://dh.orakaihotels.com/eng/default.asp
 -   JW Marriott Dongdaemun Square Seoul (2.8 km away; around 45 min walking ; 13 min by taxi)\
     279, Cheonggyecheon-ro, Jongno-gu, Seoul\
-    link: https://www.shilla.net/seoul/index.do
+    link: https://www.marriott.com/en-us/hotels/seldp-jw-marriott-dongdaemun-square-seoul/overview/
 -   Nine Tree by Parnas Seoul Insadong (2.8 km away; around 44 min walking ; 14 min by taxi)\
     49, Insadong-gil, Jongno-gu, Seoul\
     link: https://www.ninetreehotels.com/nth3/?lang=en
