@@ -20,21 +20,15 @@ _Address_: Sungkyunkwan University (Humanities & Social Sciences Campus), 25-2 S
 
 **Nearby Hotels:**
 
--   Orakai Daehakro Hotel, BW Signature Collection (1.5 km away; 25 min walking ; 5 min by taxi)\
-    180, Yulgok-ro, Jongno-gu, Seoul\
-    link: https://dh.orakaihotels.com/eng/default.asp
--   JW Marriott Dongdaemun Square Seoul (2.8 km away; around 45 min walking ; 13 min by taxi)\
-    279, Cheonggyecheon-ro, Jongno-gu, Seoul\
-    link: https://www.marriott.com/en-us/hotels/seldp-jw-marriott-dongdaemun-square-seoul/overview/
--   Nine Tree by Parnas Seoul Insadong (2.8 km away; around 44 min walking ; 14 min by taxi)\
-    49, Insadong-gil, Jongno-gu, Seoul\
-    link: https://www.ninetreehotels.com/nth3/?lang=en
--   Somerset Palace (3.5 km away, around 47 min walking ; 16 min by taxi)\
-    7 Yulgok-ro 2-gil, Jongno District, Seoul\
-    link: https://www.discoverasr.com/en/somerset-serviced-residence/korea-south/somerset-palace-seoul
--   The Ambassador Seoul (3.9 km away, around 61 min walking ; 16 min by taxi)\
-    287, Dongho-ro, Jung-gu, Seoul\
-    link: https://www.ambatel.com/theambassador/seoul/en/main.do
--   The Plaza Seoul, Autograph Collection (4.5 km away, around 71 min walking ; 22 min by taxi)\
-    119 Sogong-ro, Jung District, Seoul\
-    link: https://www.marriott.com/en-us/hotels/selak-the-plaza-seoul-autograph-collection/overview/
+-   [Orakai Daehakro Hotel, BW Signature Collection](https://dh.orakaihotels.com/eng/default.asp) (1.5 km away; 25 min walking ; 5 min by taxi)\
+    180, Yulgok-ro, Jongno-gu, Seoul
+-   [JW Marriott Dongdaemun Square Seoul](https://www.marriott.com/en-us/hotels/seldp-jw-marriott-dongdaemun-square-seoul/overview/) (2.8 km away; around 45 min walking ; 13 min by taxi)\
+    279, Cheonggyecheon-ro, Jongno-gu, Seoul
+-   [Nine Tree by Parnas Seoul Insadong](https://www.ninetreehotels.com/nth3/?lang=en) (2.8 km away; around 44 min walking ; 14 min by taxi)\
+    49, Insadong-gil, Jongno-gu, Seoul
+-   [Somerset Palace](https://www.discoverasr.com/en/somerset-serviced-residence/korea-south/somerset-palace-seoul) (3.5 km away, around 47 min walking ; 16 min by taxi)\
+    7 Yulgok-ro 2-gil, Jongno District, Seoul
+-   [The Ambassador Seoul](https://www.ambatel.com/theambassador/seoul/en/main.do) (3.9 km away, around 61 min walking ; 16 min by taxi)\
+    287, Dongho-ro, Jung-gu, Seoul
+-   [The Plaza Seoul, Autograph Collection](https://www.marriott.com/en-us/hotels/selak-the-plaza-seoul-autograph-collection/overview/) (4.5 km away, around 71 min walking ; 22 min by taxi)\
+     119 Sogong-ro, Jung District, Seoul
