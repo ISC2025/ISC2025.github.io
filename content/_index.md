@@ -22,8 +22,7 @@ The proceedings of ISC 2025 will be published as
 a separate LNCS volume by Springer.
 
 ## News
-
-<!-- -   Call for Papers is [out]({{<ref "call-for-papers">}}). \[02/2025\] -->
+-   Call for Papers is [out]({{<ref "call-for-papers">}}). \[02/2025\]
 -   Website is up! \[02/2025\]
 
 ## Previous Editions of ISC
