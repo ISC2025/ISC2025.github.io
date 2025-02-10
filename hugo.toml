@@ -1,7 +1,7 @@
 theme = 'mainroad'
 title = 'ISC 2025'
 
-baseURL = "https://Skku-SecAI.github.io/"
+baseURL = "https://isc25.skku.edu/"
 [Params.style.vars]
   highlightColor = "#c65616"
 

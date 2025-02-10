@@ -3,7 +3,7 @@ title = 'ISC Code of Conduct'
 date = 2024-08-28T11:53:49-04:00
 +++
 
-Thank you for attending ISC’24. At ISC, we are dedicated to providing a safe and enjoyable event experience for all participants, fostering a welcoming environment for open discussion and the exchange of ideas. Harassment in any form will not be tolerated.
+Thank you for attending ISC’25. At ISC, we are dedicated to providing a safe and enjoyable event experience for all participants, fostering a welcoming environment for open discussion and the exchange of ideas. Harassment in any form will not be tolerated.
 
 **Our Expectations: Be Inclusive, Considerate, Respectful, and Kind**
 
