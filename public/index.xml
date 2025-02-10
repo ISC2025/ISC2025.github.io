@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on ISC 2025</title>
-    <link>http://localhost:57011/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Home on ISC 2025</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Wed, 28 Aug 2024 11:53:49 -0400</lastBuildDate>
-    <atom:link href="http://localhost:57011/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Call for Papers</title>
-      <link>http://localhost:57011/call-for-papers/</link>
+      <link>http://localhost:1313/call-for-papers/</link>
       <pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate>
-      <guid>http://localhost:57011/call-for-papers/</guid>
-      <description>&lt;p&gt;The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security. This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.&lt;/p&gt;&#xA;&lt;h2 id=&#34;types-of-submissions-solicited&#34;&gt;Types of Submissions Solicited&lt;/h2&gt;&#xA;&lt;p&gt;Papers on all technical aspects of information security, cryptography, and privacy are solicited for submission. Areas of interest include, but are not limited to:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/call-for-papers/</guid>
+      <description>&lt;p&gt;The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security.&lt;/p&gt;&#xA;&lt;p&gt;This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.&lt;/p&gt;&#xA;&lt;h2 id=&#34;types-of-submissions-solicited&#34;&gt;Types of Submissions Solicited&lt;/h2&gt;&#xA;&lt;p&gt;Papers on all technical aspects of information security, cryptography, and privacy are solicited for submission. Areas of interest include, but are not limited to:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Committee</title>
-      <link>http://localhost:57011/committee/</link>
+      <link>http://localhost:1313/committee/</link>
       <pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate>
-      <guid>http://localhost:57011/committee/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;General Chair&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;수정 필요&lt;/strong&gt;\&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Program Chairs&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;수정 필요&lt;/strong&gt;\&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Steering Committee&lt;/strong&gt;&lt;br&gt;&#xA;Zhiqiang Lin (The Ohio State University)&lt;br&gt;&#xA;Javier Lopez (University of Malaga)&lt;br&gt;&#xA;Masahiro Mambo (Kanazawa University)&lt;br&gt;&#xA;Nicky Mouha (Strativia &amp;amp; NIST Associate, USA)&lt;br&gt;&#xA;Eiji Okamoto (University of Tsukuba)&lt;br&gt;&#xA;Michalis Polychronakis (Stony Brook University)&lt;br&gt;&#xA;Willy Susilo (University of Wollongong)&lt;br&gt;&#xA;Jianying Zhou (Singapore University of Technology and Design)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publications Chair&lt;/strong&gt;&lt;br&gt;&#xA;Yuseok Jeon (UNIST)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publicity Chair&lt;/strong&gt;&lt;br&gt;&#xA;Hyoungshick Kim (Sungkyunkwan University)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Program Committee&lt;/strong&gt;&lt;br&gt;&#xA;&lt;strong&gt;수정 필요&lt;/strong&gt;\&lt;/p&gt;</description>
+      <guid>http://localhost:1313/committee/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;General Chairs&lt;/strong&gt;&lt;br&gt;&#xA;Hyungjoon Koo (Sungkyunkwan University)&lt;br&gt;&#xA;Hojoon Lee (Sungkyunkwan University)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Program Chairs&lt;/strong&gt;&lt;br&gt;&#xA;Sangkil Cha (KAIST)&lt;br&gt;&#xA;Jeongeun Park (NTNU)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Steering Committee&lt;/strong&gt;&lt;br&gt;&#xA;Zhiqiang Lin (The Ohio State University)&lt;br&gt;&#xA;Javier Lopez (University of Malaga)&lt;br&gt;&#xA;Masahiro Mambo (Kanazawa University)&lt;br&gt;&#xA;Nicky Mouha (Strativia &amp;amp; NIST Associate, USA)&lt;br&gt;&#xA;Eiji Okamoto (University of Tsukuba)&lt;br&gt;&#xA;Michalis Polychronakis (Stony Brook University)&lt;br&gt;&#xA;Willy Susilo (University of Wollongong)&lt;br&gt;&#xA;Jianying Zhou (Singapore University of Technology and Design)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publications Chair&lt;/strong&gt;&lt;br&gt;&#xA;Yuseok Jeon (Korea University)&lt;/p&gt;</description>
     </item>
     <item>
       <title>Venue</title>
-      <link>http://localhost:57011/venue/</link>
+      <link>http://localhost:1313/venue/</link>
       <pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate>
-      <guid>http://localhost:57011/venue/</guid>
-      <description>&lt;p&gt;ISC&#39;25 will be held in the 600th Anniversary Memorial Hall at &lt;a href=&#34;https://hall.skku.edu/Hall/LectureRoom_2021.jsp&#34;&gt;the Humanities &amp;amp; Social Sciences Campus&lt;/a&gt; of Sungkyunkwan University (SKKU), see the location of the &lt;a href=&#34;https://maps.app.goo.gl/5AMNxR1g75gxu5HS6&#34;&gt;venue&lt;/a&gt; here.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Address&lt;/em&gt;: Sungkyunkwan University (Humanities and Social Sciences Campus) 25-2 Seonggyungwan-ro, Jongno District, Seoul, South Korea&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nearby Airports:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incheon International Airport (ICN)&lt;/li&gt;&#xA;&lt;li&gt;Gimpo International Airport (GMP)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transportation:&lt;/strong&gt; Taxi, Bus, Metro (Station: Hyehwa Statino (Line 4))&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Visitor parking is available in the 600th Anniversary Memorial Hall parking garage(&lt;a href=&#34;https://www.skku.edu/eng/About/campusinfo/parking.do&#34;&gt;all day: 30,000 KRW ($21)&lt;/a&gt;).&lt;/p&gt;</description>
+      <guid>http://localhost:1313/venue/</guid>
+      <description>&lt;p&gt;ISC&#39;25 will be held in the 600th Anniversary Hall (Sohyang Lecture Room, 6th Floor, 10602) at the &lt;a href=&#34;https://hall.skku.edu/Hall/LectureRoom_2021.jsp&#34;&gt;Humanities &amp;amp; Social Sciences Campus&lt;/a&gt; of Sungkyunkwan University (SKKU), see the location of the &lt;a href=&#34;https://maps.app.goo.gl/5AMNxR1g75gxu5HS6&#34;&gt;venue&lt;/a&gt; here.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Address&lt;/em&gt;: Sungkyunkwan University (Humanities &amp;amp; Social Sciences Campus), 25-2 Seonggyungwan-ro, Jongno District, Seoul, South Korea&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Nearby Airports:&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Incheon International Airport (ICN)&lt;/li&gt;&#xA;&lt;li&gt;Gimpo International Airport (GMP)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Transportation:&lt;/strong&gt; Taxi, Bus, Metro (Station: Hyehwa Station (Line 4))&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Visitor parking is available in the 600th Anniversary Hall parking garage (&lt;a href=&#34;https://www.skku.edu/eng/About/campusinfo/parking.do&#34;&gt;all day: 30,000 KRW ($21)&lt;/a&gt;).&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>http://localhost:57011/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate>
-      <guid>http://localhost:57011/contact/</guid>
-      <description>&lt;p&gt;Contact for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Registration, Invitation letter, etc. please send an email to&#xA;Local Organization Team &lt;a href=&#34;mailto:shr2008@g.skku.edu&#34;&gt;Yujeong Kwon&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Issues about the paper submission, please contact the PC chairs: [수정 필요]&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;Contact for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Registration, Invitation letter, etc. please send an email to&#xA;Local Organization Team &lt;a href=&#34;mailto:shr2008@g.skku.edu&#34;&gt;Yujeong Kwon&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;li&gt;Issues about the paper submission, please contact the PC chairs: &lt;a href=&#34;mailto:hyoung@skku.edu&#34;&gt;Hyoungshick Kim&lt;/a&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>ISC Code of Conduct</title>
-      <link>http://localhost:57011/code-of-conduct/</link>
+      <link>http://localhost:1313/code-of-conduct/</link>
       <pubDate>Wed, 28 Aug 2024 11:53:49 -0400</pubDate>
-      <guid>http://localhost:57011/code-of-conduct/</guid>
+      <guid>http://localhost:1313/code-of-conduct/</guid>
       <description>&lt;p&gt;Thank you for attending ISC’24. At ISC, we are dedicated to providing a safe and enjoyable event experience for all participants, fostering a welcoming environment for open discussion and the exchange of ideas. Harassment in any form will not be tolerated.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Our Expectations: Be Inclusive, Considerate, Respectful, and Kind&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;ISC is a community that welcomes and supports people of all backgrounds and identities.&lt;/li&gt;&#xA;&lt;li&gt;Always conduct yourself professionally, whether onsite, online, or when using social media, including the ISC hashtag.&lt;/li&gt;&#xA;&lt;li&gt;A comfortable and safe environment is key to productivity and creativity. Your actions can impact others, so please be respectful of differing opinions.&lt;/li&gt;&#xA;&lt;li&gt;Harassment and exclusionary behaviors are unacceptable. This includes, but is not limited to, threats of violence; discriminatory jokes or language; sharing sexually explicit or violent material; personal insults, particularly those using racist or sexist terms; unwelcome sexual attention; and advocating for or encouraging any of these behaviors. If someone asks you to stop something, you are expected to comply immediately.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Who is Covered Under This Code of Conduct?&lt;/strong&gt;&lt;br&gt;&#xA;This Code of Conduct applies to all attendees, speakers, sponsors, staff, and volunteers at our events. ISC staff will enforce this Code throughout the event and expects cooperation from all participants. If you need to report behavior that violates this Code, please inform staff at the registration desk or email &lt;a href=&#34;mailto:kevin.koo@skku.edu&#34;&gt;kevin.koo@skku.edu&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>

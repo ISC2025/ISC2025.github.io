@@ -5,7 +5,9 @@ menu = 'main'
 weight = 2
 +++
 
-The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security. This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.
+The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security.
+
+This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.
 
 ## Types of Submissions Solicited
 
@@ -36,11 +38,11 @@ Papers on all technical aspects of information security, cryptography, and priva
 
 ## Deadlines
 
-Submission Deadline: **TBD**\
-Rebuttal: **TBD**\
-Notification: **TBD**\
-Camera-Ready Deadline: **TBD**\
-Conference: **October 20-22, 2025**
+Submission Deadline: **June 4, AoE**\
+Rebuttal: **July 13-16, AoE**\
+Notification: **July 29, AoE**\
+Camera-Ready Deadline: **August 13, AoE**\
+Conference: **October 20-22, KST**
 
 ## Best Paper Award
 
