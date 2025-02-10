@@ -9,4 +9,4 @@ Contact for:
 
 -   Registration, Invitation letter, etc. please send an email to
     Local Organization Team [Yujeong Kwon](mailto:shr2008@g.skku.edu).
--   Issues about the paper submission, please contact the PC chairs: [Sangkil Cha](mailto:sangkilc@kaist.ac.kr) and [Jeongeun Park](mailto:jeongeun.park@ntnu.no).
+-   Issues about the paper submission, please contact the PC chairs: [Sang Kil Cha](mailto:sangkilc@kaist.ac.kr) and [Jeongeun Park](mailto:jeongeun.park@ntnu.no).
