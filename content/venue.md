@@ -5,7 +5,7 @@ menu = 'main'
 weight = 8
 +++
 
-ISC'25 will be held in the 600th Anniversary Hall (Sohyang Lecture Room, 6th Floor, 10602) at the [Humanities & Social Sciences Campus](https://hall.skku.edu/Hall/LectureRoom_2021.jsp) of Sungkyunkwan University (SKKU), see the location of the [venue](https://maps.app.goo.gl/5AMNxR1g75gxu5HS6) here.
+ISC'25 will be held in the 600th Anniversary Hall (Sohyang Lecture Room, 6th Floor, 10602) at the [Humanities & Social Sciences Campus](https://hall.skku.edu/Hall/LectureRoom_2021.jsp) of Sungkyunkwan University (SKKU), see the location of the [venue](https://maps.app.goo.gl/1gQDiddstpWQT63H9) here.
 
 _Address_: Sungkyunkwan University (Humanities & Social Sciences Campus), 25-2 Seonggyungwan-ro, Jongno District, Seoul, South Korea
 
