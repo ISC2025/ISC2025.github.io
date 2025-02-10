@@ -104,7 +104,7 @@ Kevin Yeo (Google and Columbia University)\
 Yves Younan (Cisco Talos)\
 Arantxa Zapico (Ethereum Foundation)\
 Runzhi Zeng (University of Kassel, Germany)\
-Yizhuo  Zhai (Georgia Institute of Technology)\
+Yizhuo Zhai (Georgia Institute of Technology)\
 Zheng Zhang (University of California, Riverise)\
 Qingchuan Zhao (City University of Hong Kong)\
 Jianying Zhou (SUTD)
@@ -119,6 +119,6 @@ Yujeong Kwon\
 Jiyong Uhm\
 Suyeon Lee\
 Minseok Kim\
-Yuldoshkhujaev Shakhzod\
+Shakhzod Yuldoshkhujaev\
 Yiyue Zhang\
-Hyoungjune Jeon
+Hyoungjun Jeon
