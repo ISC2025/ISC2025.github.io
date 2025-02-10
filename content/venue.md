@@ -35,6 +35,6 @@ _Address_: Sungkyunkwan University (Humanities & Social Sciences Campus), 25-2 S
 -   The Ambassador Seoul (3.9 km away, around 61 min walking ; 16 min by taxi)\
     287, Dongho-ro, Jung-gu, Seoul\
     link: https://www.ambatel.com/theambassador/seoul/en/main.do
--   The Plaza (4.5 km away, around 71 min walking ; 22 min by taxi)\
+-   The Plaza Seoul, Autograph Collection (4.5 km away, around 71 min walking ; 22 min by taxi)\
     119 Sogong-ro, Jung District, Seoul\
     link: https://www.marriott.com/en-us/hotels/selak-the-plaza-seoul-autograph-collection/overview/
