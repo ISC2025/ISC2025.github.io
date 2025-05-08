@@ -59,6 +59,7 @@ Daehee Jang (Kyung Hee University)\
 Kangkook Jee (UT Dallas)\
 Chenglu Jin (CWI Amsterdam)\
 Vasileios Kemerlis (Brown University)\
+Hyungseok Kim (The Affiliated Institute of ETRI)\
 Seongkwang Kim (Samsung SDS)\
 Seulbae Kim (Pohang University of Science and Technology)\
 Nadim Kobeissi (Symbolic Software, Cure53)\
