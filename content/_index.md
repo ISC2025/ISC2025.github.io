@@ -23,6 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
+-   The deadline has been extended to June 11. \[06/2025\]
 -   Call for Papers is [out]({{<ref "call-for-papers">}}). \[02/2025\]
 -   Website is up! \[02/2025\]
 
