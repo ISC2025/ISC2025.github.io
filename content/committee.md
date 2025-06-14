@@ -106,7 +106,6 @@ Yves Younan (Cisco Talos)\
 Arantxa Zapico (Ethereum Foundation)\
 Runzhi Zeng (University of Kassel, Germany)\
 Yizhuo Zhai (Georgia Institute of Technology)\
-Zheng Zhang (University of California, Riverise)\
 Qingchuan Zhao (City University of Hong Kong)\
 Jianying Zhou (SUTD)
 
