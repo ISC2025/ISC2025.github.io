@@ -63,7 +63,6 @@ Hyungseok Kim (The Affiliated Institute of ETRI)\
 Seongkwang Kim (Samsung SDS)\
 Seulbae Kim (Pohang University of Science and Technology)\
 Nadim Kobeissi (Symbolic Software, Cure53)\
-Jonghoon Kwon (ETH Zürich)\
 Yi-Fu Lai (Ruhr University Bochum)\
 Sangho Lee (Microsoft Research)\
 Keewoo Lee (UC Berkeley)\
@@ -90,23 +89,18 @@ Chengyu Song (UC Riverside)\
 Prashast Srivastava (Columbia University)\
 Natalia Stakhanova (University of Saskatchewan)\
 Chao Sun (Southeast University)\
-Ruimin Sun (Florida International University)\
 Giorgos Vasiliadis (Hellenic Mediterranean University and FORTH)\
 Emmanouil Vasilomanolakis (Technical University of Denmark)\
-Stijn Volckaert (DistriNet, KU Leuven)\
 Alexios Voulimeneas (TU Delft)\
 Alexandre Wallet (PQShield)\
 Yuntao Wang (The University of Electro-Communications)\
 Seunghoon Woo (Korea University)\
-Bang Wu (RMIT University)\
-Meng Xu (University of Waterloo)\
 Guomin Yang (Singapore Management University)\
 Kevin Yeo (Google and Columbia University)\
 Yves Younan (Cisco Talos)\
 Arantxa Zapico (Ethereum Foundation)\
 Runzhi Zeng (University of Kassel, Germany)\
 Yizhuo Zhai (Georgia Institute of Technology)\
-Qingchuan Zhao (City University of Hong Kong)\
 Jianying Zhou (SUTD)
 
 **Web Team**\
