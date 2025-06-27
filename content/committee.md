@@ -108,7 +108,7 @@ Mijin Jeon (Sungkyunkwan University)\
 Minseok Kim
 
 **Local Organization Team**\
-Hyungmin Cho (Sungkyunkwan University)\
+Jaehoon Paul Jeong (Sungkyunkwan University)\
 Yujeong Kwon\
 Jiyong Uhm\
 Suyeon Lee\
