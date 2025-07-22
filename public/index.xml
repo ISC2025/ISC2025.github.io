@@ -23,13 +23,6 @@
       <description>&lt;p&gt;&lt;strong&gt;General Chairs&lt;/strong&gt;&lt;br&gt;&#xA;Hyungjoon Koo (Sungkyunkwan University)&lt;br&gt;&#xA;Hojoon Lee (Sungkyunkwan University)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Program Chairs&lt;/strong&gt;&lt;br&gt;&#xA;Sang Kil Cha (KAIST)&lt;br&gt;&#xA;Jeongeun Park (NTNU)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Steering Committee&lt;/strong&gt;&lt;br&gt;&#xA;Zhiqiang Lin (The Ohio State University)&lt;br&gt;&#xA;Javier Lopez (University of Malaga)&lt;br&gt;&#xA;Masahiro Mambo (Kanazawa University)&lt;br&gt;&#xA;Nicky Mouha (Strativia &amp;amp; NIST Associate, USA)&lt;br&gt;&#xA;Eiji Okamoto (University of Tsukuba)&lt;br&gt;&#xA;Michalis Polychronakis (Stony Brook University)&lt;br&gt;&#xA;Willy Susilo (University of Wollongong)&lt;br&gt;&#xA;Jianying Zhou (Singapore University of Technology and Design)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Publications Chair&lt;/strong&gt;&lt;br&gt;&#xA;Yuseok Jeon (Korea University)&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Keynotes</title>
-      <link>http://localhost:1313/keynote/</link>
-      <pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate>
-      <guid>http://localhost:1313/keynote/</guid>
-      <description>&lt;h3 id=&#34;title-secure-programming-with-large-language-models-are-we-there-yet&#34;&gt;Title: Secure Programming with Large Language Models: Are We There Yet?&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: Hyoungshick Kim (Sungkyunkwan University)&lt;/p&gt;&#xA;&lt;figure class=&#34;left&#34;&gt;&lt;img src=&#34;http://localhost:1313/img/hyoung_hp1-300x225.jpg&#34; width=&#34;200&#34;&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: October 23, 2024 &lt;br&gt;&#xA;&lt;strong&gt;Abstract&lt;/strong&gt;: AI coding assistants, such as GitHub Copilot, have quickly become an integral part of developers&amp;rsquo; everyday workflows, but how safe is the code they generate? In this talk, I’ll dive into what makes AI-generated code insecure, drawing from recent case studies and experiments. I&amp;rsquo;ll walk through efforts to improve security using fine-tuning, prompt engineering, and retrieval-augmented techniques, as well as our own approach to automated patch generation using vulnerability logs. This talk highlights both the potential and the current gaps in making large language models truly helpful for secure programming. The goal is to move beyond fixing bugs to actually teaching models why code is secure.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Venue</title>
       <link>http://localhost:1313/venue/</link>
       <pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate>
