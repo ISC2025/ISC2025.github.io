@@ -62,7 +62,6 @@ Vasileios Kemerlis (Brown University)\
 Hyungseok Kim (The Affiliated Institute of ETRI)\
 Seongkwang Kim (Samsung SDS)\
 Seulbae Kim (Pohang University of Science and Technology)\
-Nadim Kobeissi (Symbolic Software, Cure53)\
 Yi-Fu Lai (Ruhr University Bochum)\
 Sangho Lee (Microsoft Research)\
 Keewoo Lee (UC Berkeley)\

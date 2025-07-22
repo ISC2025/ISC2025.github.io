@@ -1,21 +1,22 @@
 +++
 title = 'Keynotes'
 date = 2024-03-06T14:07:08-05:00
-draft = true
 menu = 'main'
 weight = 6
 +++
 
-### Title: Symmetric-key Cryptography for Memory Encryption
+### Title: Secure Programming with Large Language Models: Are We There Yet?
 
-**Speaker**: Kazuhiko Minematsu (NEC and Yokohama National University)
+**Speaker**: Hyoungshick Kim (Sungkyunkwan University)
 
-{{< figure src="/img/logo2.jpg" class="left" width="200">}}
+{{< figure src="/img/hyoung_hp1-300x225.jpg" class="left" width="200">}}
 
 **Date**: October 23, 2024 \
-**Abstract**: Recent threats on computer memory increase the need for memory protection against eavesdropping or tampering, requiring the use of symmetric-key cryptography community for low-latency encryption. This talk discusses research directions and technological advancements of low-latency encryption and its application to memory encryption.
+**Abstract**: AI coding assistants, such as GitHub Copilot, have quickly become an integral part of developers' everyday workflows, but how safe is the code they generate? In this talk, I’ll dive into what makes AI-generated code insecure, drawing from recent case studies and experiments. I'll walk through efforts to improve security using fine-tuning, prompt engineering, and retrieval-augmented techniques, as well as our own approach to automated patch generation using vulnerability logs. This talk highlights both the potential and the current gaps in making large language models truly helpful for secure programming. The goal is to move beyond fixing bugs to actually teaching models why code is secure.
 
-**Biography**: Kazuhiko Minematsu received his B.E., M.E. and Dr.S. degrees at Waseda University, Japan, in 1996, 1998, and 2008. He joined NEC and now works as a Research Fellow working on the design and analysis of symmetric-key cryptography and its application systems. He is also a visiting professor at Yokohama National University from 2019.
+**Biography**: Hyoungshick Kim is a professor in the Department of Computer Science and Engineering, Sungkyunkwan University. He received a BS degree from
+the Department of Information Engineering at Sungkyunkwan University, an MS from the Department of Computer Science at KAIST, and a Ph.D. from the Computer Laboratory at the University of Cambridge in 1999, 2001, and 2011, respectively. After completing his Ph.D., he worked as a post-doctoral fellow in the Department of Electrical and Computer Engineering at the University of British Columbia. He previously worked as a senior engineer at Samsung Electronics from 2004 to 2008. He also worked as a distinguished visiting researcher at CSIRO Data61 from 2019 to 2020. His current research interests include usable security, software security, and data-driven security. He enjoys finding security issues in new systems, particularly recent AI systems
+and applications, and has been deeply engaged in identifying real security problems in these areas. His work aims to uncover and address the practical security challenges posed by emerging technologies.
 
 ---
 
