@@ -30,7 +30,7 @@ Yuseok Jeon (Korea University)
 Hyoungshick Kim (Sungkyunkwan University)
 
 **Program Committee**\
-Cristina Alcaraz (University of Malaga)\
+Soomin Kim (KAIST)\
 Basavesh Ammanaghatta Shivakumar (Virginia Tech)\
 Elena Andreeva (TU Wien, Austria)\
 Amit Singh Bhati (3MI Labs, Belgium)\
