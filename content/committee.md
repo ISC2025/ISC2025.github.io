@@ -30,7 +30,6 @@ Yuseok Jeon (Korea University)
 Hyoungshick Kim (Sungkyunkwan University)
 
 **Program Committee**\
-Soomin Kim (KAIST)\
 Basavesh Ammanaghatta Shivakumar (Virginia Tech)\
 Elena Andreeva (TU Wien, Austria)\
 Amit Singh Bhati (3MI Labs, Belgium)\
@@ -100,7 +99,8 @@ Yves Younan (Cisco Talos)\
 Arantxa Zapico (Ethereum Foundation)\
 Runzhi Zeng (University of Kassel, Germany)\
 Yizhuo Zhai (Georgia Institute of Technology)\
-Jianying Zhou (SUTD)
+Jianying Zhou (SUTD)\
+Soomin Kim (KAIST)
 
 **Web Team**\
 Mijin Jeon (Sungkyunkwan University)\
