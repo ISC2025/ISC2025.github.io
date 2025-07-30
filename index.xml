@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on ISC 2025</title><link>https://isc25.skku.edu/</link><description>Recent content in Home on ISC 2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 06 Feb 2025 14:07:09 -0500</lastBuildDate><atom:link href="https://isc25.skku.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Call for Papers</title><link>https://isc25.skku.edu/call-for-papers/</link><pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate><guid>https://isc25.skku.edu/call-for-papers/</guid><description>&lt;p>The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security.&lt;/p>
+&lt;p>This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.&lt;/p>
+&lt;h2 id="types-of-submissions-solicited">Types of Submissions Solicited&lt;/h2>
+&lt;p>Papers on all technical aspects of information security, cryptography, and privacy are solicited for submission. Areas of interest include, but are not limited to:&lt;/p></description></item><item><title>Committee</title><link>https://isc25.skku.edu/committee/</link><pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate><guid>https://isc25.skku.edu/committee/</guid><description>&lt;p>&lt;strong>General Chairs&lt;/strong>&lt;br>
+Hyungjoon Koo (Sungkyunkwan University)&lt;br>
+Hojoon Lee (Sungkyunkwan University)&lt;/p>
+&lt;p>&lt;strong>Program Chairs&lt;/strong>&lt;br>
+Sang Kil Cha (KAIST)&lt;br>
+Jeongeun Park (NTNU)&lt;/p>
+&lt;p>&lt;strong>Steering Committee&lt;/strong>&lt;br>
+Zhiqiang Lin (The Ohio State University)&lt;br>
+Javier Lopez (University of Malaga)&lt;br>
+Masahiro Mambo (Kanazawa University)&lt;br>
+Nicky Mouha (Strativia &amp;amp; NIST Associate, USA)&lt;br>
+Eiji Okamoto (University of Tsukuba)&lt;br>
+Michalis Polychronakis (Stony Brook University)&lt;br>
+Willy Susilo (University of Wollongong)&lt;br>
+Jianying Zhou (Singapore University of Technology and Design)&lt;/p>
+&lt;p>&lt;strong>Publications Chair&lt;/strong>&lt;br>
+Yuseok Jeon (Korea University)&lt;/p></description></item><item><title>Keynotes</title><link>https://isc25.skku.edu/keynote/</link><pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate><guid>https://isc25.skku.edu/keynote/</guid><description>&lt;h3 id="title-sokół-polishing-up-falcon">Title: Sokół: Polishing Up Falcon&lt;/h3>
+&lt;p>&lt;strong>Speaker&lt;/strong>: &lt;a href="https://www.normalesup.org/~tibouchi/">Mehdi Tibouchi&lt;/a> (NTT Social Informatics Laboratories &amp;amp; Kyoto University)&lt;/p>
+&lt;figure class="left">&lt;img src="https://isc25.skku.edu/img/selfportrait_homepage.jpg" width="200">
+&lt;/figure>
+
+&lt;p>&lt;strong>Date&lt;/strong>: October 20, 2025 &lt;br>
+&lt;strong>Abstract&lt;/strong>: Falcon is a post-quantum signature scheme based on lattices that has been selected by NIST for upcoming standardization. It is compact, efficient and a really attractive design overall, but presents a number of pitfalls in terms of implementation. In this talk, we will present some of these issues and how they can affect the security of real-world deployments. We will then suggest some little touch-ups to the scheme that largely mitigate those issues, and could usefully be considered in the final standard.&lt;/p></description></item><item><title>Venue</title><link>https://isc25.skku.edu/venue/</link><pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate><guid>https://isc25.skku.edu/venue/</guid><description>&lt;p>ISC'25 will be held in the 600th Anniversary Hall (Sohyang Lecture Room, 6th Floor, 10602) at the &lt;a href="https://hall.skku.edu/Hall/LectureRoom_2021.jsp">Humanities &amp;amp; Social Sciences Campus&lt;/a> of Sungkyunkwan University (SKKU), see the location of the &lt;a href="https://maps.app.goo.gl/1gQDiddstpWQT63H9">venue&lt;/a> here.&lt;/p>
+&lt;p>&lt;em>Address&lt;/em>: Sungkyunkwan University (Humanities &amp;amp; Social Sciences Campus), 25-2 Seonggyungwan-ro, Jongno District, Seoul, South Korea&lt;/p>
+&lt;p>&lt;strong>Nearby Airports:&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>Incheon International Airport (ICN)&lt;/li>
+&lt;li>Gimpo International Airport (GMP)&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Transportation:&lt;/strong> Taxi, Bus, Metro (Station: Hyehwa Station (Line 4))&lt;/p>
+&lt;p>&lt;strong>Parking:&lt;/strong> Visitor parking is available in the 600th Anniversary Hall parking garage (&lt;a href="https://www.skku.edu/eng/About/campusinfo/parking.do">all day: 30,000 KRW ($21)&lt;/a>).&lt;/p></description></item><item><title>Contact</title><link>https://isc25.skku.edu/contact/</link><pubDate>Thu, 06 Feb 2025 14:07:09 -0500</pubDate><guid>https://isc25.skku.edu/contact/</guid><description>&lt;p>Contact for:&lt;/p>
+&lt;ul>
+&lt;li>Registration, Invitation letter, etc. please send an email to
+Local Organization Team &lt;a href="mailto:shr2008@g.skku.edu">Yujeong Kwon&lt;/a>.&lt;/li>
+&lt;li>Issues about the paper submission, please contact the PC chairs: &lt;a href="mailto:sangkilc@kaist.ac.kr">Sang Kil Cha&lt;/a> and &lt;a href="mailto:jeongeun.park@ntnu.no">Jeongeun Park&lt;/a>.&lt;/li>
+&lt;/ul></description></item><item><title>ISC Code of Conduct</title><link>https://isc25.skku.edu/code-of-conduct/</link><pubDate>Wed, 28 Aug 2024 11:53:49 -0400</pubDate><guid>https://isc25.skku.edu/code-of-conduct/</guid><description>&lt;p>Thank you for attending ISC’25. At ISC, we are dedicated to providing a safe and enjoyable event experience for all participants, fostering a welcoming environment for open discussion and the exchange of ideas. Harassment in any form will not be tolerated.&lt;/p>
+&lt;p>&lt;strong>Our Expectations: Be Inclusive, Considerate, Respectful, and Kind&lt;/strong>&lt;/p>
+&lt;ul>
+&lt;li>ISC is a community that welcomes and supports people of all backgrounds and identities.&lt;/li>
+&lt;li>Always conduct yourself professionally, whether onsite, online, or when using social media, including the ISC hashtag.&lt;/li>
+&lt;li>A comfortable and safe environment is key to productivity and creativity. Your actions can impact others, so please be respectful of differing opinions.&lt;/li>
+&lt;li>Harassment and exclusionary behaviors are unacceptable. This includes, but is not limited to, threats of violence; discriminatory jokes or language; sharing sexually explicit or violent material; personal insults, particularly those using racist or sexist terms; unwelcome sexual attention; and advocating for or encouraging any of these behaviors. If someone asks you to stop something, you are expected to comply immediately.&lt;/li>
+&lt;/ul>
+&lt;p>&lt;strong>Who is Covered Under This Code of Conduct?&lt;/strong>&lt;br>
+This Code of Conduct applies to all attendees, speakers, sponsors, staff, and volunteers at our events. ISC staff will enforce this Code throughout the event and expects cooperation from all participants. For more information, refer to the &lt;a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct">Book Authors&amp;rsquo; Code of Conduct&lt;/a> from Springer. If you need to report behavior that violates this Code, please inform staff at the registration desk or email &lt;a href="mailto:kevin.koo@skku.edu">kevin.koo@skku.edu&lt;/a>.&lt;/p></description></item></channel></rss>
