@@ -114,4 +114,5 @@ Suyeon Lee\
 Minseok Kim\
 Shakhzod Yuldoshkhujaev\
 Yiyue Zhang\
-Hyoungjun Jeon
+Hyoungjun Jeon\
+Giuk Kwon
