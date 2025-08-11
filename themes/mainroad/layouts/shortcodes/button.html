@@ -1,2 +1,8 @@
-<p><button id=":Ex1t" name="button" class="{{.Get `class`}}" onclick="window.location.href='{{.Get `href` }}';">{{ .Inner }}</button>
+<p>
+	<button
+		class="{{ .Get `class` }}"
+		onclick="window.open('{{ .Get `href` }}', '_blank')"
+	>
+		{{ .Inner }}
+	</button>
 </p>

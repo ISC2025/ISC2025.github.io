@@ -128,8 +128,9 @@ textarea {
 	padding: 5px 10px;
 	font-weight: 700;
 	color: #fff;
-	white-space: pre-line;
+	/* white-space: pre-line; */
 	background: #c65616;
+	border: 2px solid #c65616;
 }
 
 .btn:hover {

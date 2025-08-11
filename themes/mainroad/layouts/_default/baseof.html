@@ -53,7 +53,14 @@
 </head>
 <body class="body">
 	<div class="container container--outer">
-		{{ block "header" . }}{{ partial "header.html" . }}{{ end }}
+{{ block "header" . }}
+  {{ if ne .Layout "registration-form" }}
+    {{ partial "header.html" . }}
+  {{ else }}
+  {{ end }}
+{{ end }}
+
+
 		<div class="wrapper flex">
 			<div class="primary">
 			{{ block "main" . }}
@@ -64,9 +71,15 @@
 				{{ end }}
 			{{ end }}
 			</div>
-			{{ block "sidebar" . }}{{ partial "sidebar.html" . }}{{ end }}
+{{ if ne .Layout "registration-form" }}
+  {{ partial "sidebar.html" . }}
+{{ end }}
+
 		</div>
-		{{ block "footer" . }}{{ partial "footer.html" . }}{{ end }}
+{{ if ne .Layout "registration-form" }}
+  {{ partial "footer.html" . }}
+{{ end }}
+
 	</div>
 <script async defer src="{{ "js/menu.js" | relURL }}"></script>
 {{ range .Site.Params.customJS -}}

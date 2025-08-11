@@ -61,6 +61,7 @@ Vasileios Kemerlis (Brown University)\
 Hyungseok Kim (The Affiliated Institute of ETRI)\
 Seongkwang Kim (Samsung SDS)\
 Seulbae Kim (Pohang University of Science and Technology)\
+Soomin Kim (KAIST) \
 Yi-Fu Lai (Ruhr University Bochum)\
 Sangho Lee (Microsoft Research)\
 Keewoo Lee (UC Berkeley)\
@@ -99,8 +100,7 @@ Yves Younan (Cisco Talos)\
 Arantxa Zapico (Ethereum Foundation)\
 Runzhi Zeng (University of Kassel, Germany)\
 Yizhuo Zhai (Georgia Institute of Technology)\
-Jianying Zhou (SUTD)\
-Soomin Kim (KAIST)
+Jianying Zhou (SUTD)
 
 **Web Team**\
 Mijin Jeon (Sungkyunkwan University)\
