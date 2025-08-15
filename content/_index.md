@@ -23,6 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
+-   The list of accepted papers is available [here]({{<ref "accepted-papers">}}). \[08/15/2025\]
 -   [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/) (Distinguished Researcher at NTT Social Informatics Laboratories, Guest Associate Professor at Kyoto University) will be (one of) the keynote speakers! \[07/28/2025\]
 -   [Hyoungshick Kim](https://seclab.skku.edu/people/hyoungshick-kim/) (Professor at Sungkyunkwan University) will be (one of) the keynote speakers! \[07/28/2025\]
 -   The deadline has been extended to June 11. \[06/2025\]
