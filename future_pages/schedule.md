@@ -1,21 +1,21 @@
 +++
 title = 'Schedule'
 date = 2024-03-06T14:07:08-05:00
-draft = true
-menu = 'main'
 weight = 5
+draft = true
 +++
-#FIXME: This should use a js and template to render:  [example](https://isc23.cs.rug.nl/docs/schedule/)
 
-
+#FIXME: This should use a js and template to render: [example](https://isc23.cs.rug.nl/docs/schedule/)
 
 ::: {.tabs_wrap}
+
 -   Wed 15-NOV 2023
 -   Thu 16-NOV 2023
 -   Fri 17-NOV 2023
-:::
+    :::
 
 ::: {.container}
+
 -   ::: {.item}
     ::: {.item_left}
     ::: {.data}
@@ -1036,13 +1036,14 @@ weight = 5
     :::
     :::
 
-    ::: {.item_right}
-    ::: {.data style="font-weight: 600"}
-    Concluding Remarks
+        ::: {.item_right}
+        ::: {.data style="font-weight: 600"}
+        Concluding Remarks
+        :::
+        :::
+        :::
+
     :::
     :::
     :::
-:::
-:::
-:::
-:::
+    :::
