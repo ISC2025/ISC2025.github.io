@@ -23,7 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
--   Our registration opening has been postponed due to credit card payment processing issues. We apologize for the inconvenience and will update you as soon as possible.
+-   Our registration opening has been postponed due to credit card payment processing issues. We apologize for the inconvenience and will update you as soon as possible. \[08/20/2025\]
 -   The list of accepted papers is available [here]({{<ref "accepted-papers">}}). \[08/15/2025\]
 -   [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/) (Distinguished Researcher at NTT Social Informatics Laboratories, Guest Associate Professor at Kyoto University) will be (one of) the keynote speakers! \[07/28/2025\]
 -   [Hyoungshick Kim](https://seclab.skku.edu/people/hyoungshick-kim/) (Professor at Sungkyunkwan University) will be (one of) the keynote speakers! \[07/28/2025\]

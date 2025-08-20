@@ -19,8 +19,11 @@ Please refer to the table below for the ISC 2025 registration costs:
 | Student  | $550                               | $650                          |
 | Regular  | $650                               | $750                          |
 
-In order to complete the registration procedure please use the button below:  
-{{< button href="/registration/form/" class="btn" target="_blank" >}}Registration{{< /button >}}
+**Registration will open soon.**
+
+<!-- In order to complete the registration procedure please use the button below: -->
+
+<!-- {{< button href="/registration/form/" class="btn" target="_blank" >}}Registration{{< /button >}} -->
 
 ## Visa Support Letter
 
