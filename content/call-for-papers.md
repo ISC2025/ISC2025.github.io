@@ -46,7 +46,7 @@ Conference: **October 20-22, KST**
 
 ## Best Paper Award
 
-Accepted papers will be judged and ranked by the Program Committee. The best papers will be considered for the Best Paper Award (thanks to the gracious support from Springer).
+Accepted papers will be judged and ranked by the Program Committee. The best papers will be considered for the Best Paper Award.
 
 ## Instructions for Authors
 
