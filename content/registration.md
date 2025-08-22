@@ -3,27 +3,25 @@ title = 'Registration'
 date = 2024-08-05T14:32:04+08:00
 menu = 'main'
 weight = 5
-draft = true
 +++
 
-**Authors**: **At least one author from each accepted paper must complete a regular registration for the conference prior to September 8** and is expected to present it in person at the conference. If there is a clearly explained, objective reason that prevents all the authors of a paper from traveling (e.g., officially rejected visa applications), please contact
+**Authors**: **At least one author from each accepted paper must complete a regular registration for the conference prior to October 3rd** and is expected to present it in person at the conference. If there is a clearly explained, objective reason that prevents all the authors of a paper from traveling (e.g., officially rejected visa applications), please contact
 Hyungjoon Koo (kevin.koo@skku.edu) to reach a solution. **Warning**: If you fail to complete the registration or do not present the paper in person without an approved solution, your paper may not be included in the conference program or the final conference proceedings.
 
 **Students**:
 The participants with a student registration will be required to prove their status at the registration desk.
 
-Please refer to the table below for the ISC 2025 registration costs:
+Please refer to the table below for the ISC 2025 registration costs (KRW):
 
-| Category | Early Bird (before September 12th) | Standard (until October 13th) |
-| :------- | :--------------------------------- | :---------------------------- |
-| Student  | $550                               | $650                          |
-| Regular  | $650                               | $750                          |
+| Category | Early Bird (until October 3rd) | Standard (until October 13th) |
+| :------- | :----------------------------- | :---------------------------- |
+| Student  | ₩ 800,000                      | ₩ 900,000                     |
+| Regular  | ₩ 900,000                      | ₩ 1,000,000                   |
 
-**Registration will open soon.**
-
-<!-- In order to complete the registration procedure please use the button below: -->
-
-<!-- {{< button href="/registration/form/" class="btn" target="_blank" >}}Registration{{< /button >}} -->
+In order to complete the registration procedure please use the button below:
+\
+**We are under testing for registration; please wait until further notice.**
+{{< button href="https://osia.or.kr/isc2025.php" class="btn" target="_blank" >}}Registration{{< /button >}}
 
 ## Visa Support Letter
 
