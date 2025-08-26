@@ -19,8 +19,10 @@ Please refer to the table below for the ISC 2025 registration costs (KRW):
 | Regular  | ₩ 900,000                      | ₩ 1,000,000                   |
 
 In order to complete the registration procedure please use the button below:
-\
-**We are under testing for registration; please wait until further notice.**
+
+<!-- **We are under testing for registration; please wait until further notice.** -->
+
+**Registration is currently open via wire transfer. Credit card payment will be accepted beginning in mid-September.**
 {{< button href="https://osia.or.kr/isc2025.php" class="btn" target="_blank" >}}Registration{{< /button >}}
 
 ## Visa Support Letter

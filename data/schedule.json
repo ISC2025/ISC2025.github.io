@@ -6,46 +6,59 @@
             { "time": "09:20 - 09:40", "detail": "Welcome Statement by General and PC Co-chairs" },
             {
                 "time": "09:40 - 10:40",
-                "detail": "Keynote by Mehdi Tibouchi - Session chair: ??",
+                "detail": "Keynote by Mehdi Tibouchi - Session chair: TBD",
                 "class": "keynote"
             },
             { "time": "10:40 - 11:00", "detail": "Break 1 (20 min)", "class": "break" },
             {
                 "time": "11:00 - 12:00",
-                "detail": "Session 1: Cryptography - Cryptanalysis and Cipher Security (3 talks) - Session chair: ??"
+                "detail": "Session 1: Cryptanalysis and Cipher Security (3 talks) - Session chair: TBD"
             },
             {
-                "time": "",
-                "detail": "??"
+                "time": "11:00 - 11:20",
+                "detail": "Improving the Differential-Linear Attack with Applications to GIFT-COFB, GIFT-64 and HyENA"
             },
-            { "time": "", "detail": "??" },
+            { "time": "11:20 - 11:40", "detail": "Keyless Physical-Layer Cryptography" },
+            { "time": "11:40 - 12:00", "detail": "The Multi-User Security of GCM-SST and Further Enhancements" },
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
                 "time": "13:30 - 14:30",
-                "detail": "Session 2: Cryptography - Network Security (3 talks) - Session chair: ??"
+                "detail": "Session 2: Network Security (3 talks) - Session chair: TBD"
             },
-            { "time": "", "detail": "??" },
-            { "time": "", "detail": "??" },
-            { "time": "", "detail": "??" },
+            { "time": "13:30 - 13:50", "detail": "SimSeq:A Robust TLS Traffic Classification Method" },
+            {
+                "time": "13:50 - 14:10",
+                "detail": "EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory"
+            },
+            {
+                "time": "14:10 - 14:30",
+                "detail": "A Lot of Data and Added Complexity. How Does PQC Affect the Performance of My TLS Connection?"
+            },
             { "time": "14:30 - 14:50", "detail": "Break 2 (20 min)", "class": "break" },
             {
                 "time": "14:50 - 15:30",
-                "detail": "Session 3: Systems - Post quantum cryptography (2 talks) - Session Chair: ??"
+                "detail": "Session 3: Post quantum cryptography (2 talks) - Session Chair: TBD"
             },
-            { "time": "", "detail": "??" },
-            { "time": "", "detail": "??" },
+            {
+                "time": "14:50 - 15:10",
+                "detail": "Conditional Attribute-Based PRE: Definition and Construction from LWE"
+            },
+            { "time": "15:10 - 15:30", "detail": "LastRings: Lattice-based Scalable Threshold Ring Signatures" },
             { "time": "15:30 - 16:00", "detail": "Break 3 (30 min)", "class": "break" },
             {
                 "time": "16:00 - 17:00",
-                "detail": "Session 4: Systems - Side-Channel Attacks and Countermeasures (System) (3 talks) - Session Chair: ??"
+                "detail": "Session 4: Systems - Side-Channel Attacks and Countermeasures (3 talks) - Session Chair: TBD"
             },
-            { "time": "", "detail": "??" },
             {
-                "time": "",
-                "detail": "??"
+                "time": "16:00 - 16:20",
+                "detail": "Simulation-based Software Leakage Evaluation for the RISC-V Platform"
             },
-            { "time": "", "detail": "??" },
-            { "time": "17:30 - 19:30", "detail": "Reception (at the 조병두 국제홀(영어로 적어야 함))" }
+            {
+                "time": "16:20 - 16:40",
+                "detail": "GIR-Cache: Mitigating Conflict-Based Cache Side-Channel Attacks Via Global Indirect Replacement"
+            },
+            { "time": "16:40 - 17:00", "detail": "Inference Attacks on Encrypted Online Voting via Traffic Analysis" },
+            { "time": "17:30 - 19:30", "detail": "Reception (at the ChoByungDoo International Conference Hall)" }
         ]
     },
     "day2": {
@@ -54,52 +67,77 @@
             { "time": "09:00 - 09:30", "detail": "Registrations" },
             {
                 "time": "09:30 - 10:30",
-                "detail": "Keynote by Hyoungshick Kim - Session chair: ??",
+                "detail": "Keynote by Hyoungshick Kim - Session chair: TBD",
                 "class": "keynote"
             },
             { "time": "10:30 - 11:00", "detail": "Break 1 (30 min)", "class": "break" },
             {
                 "time": "11:00 - 12:00",
-                "detail": "Session 1: AI security (3 talks) - Session chair: ??"
+                "detail": "Session 5: AI security (3 talks) - Session chair: TBD"
             },
-            { "time": "", "detail": "??" },
             {
-                "time": "",
-                "detail": "??"
+                "time": "11:00 - 11:20",
+                "detail": "MSPP-Net: Fine-grained image privacy identification via multi-stage semantic perception"
             },
-            { "time": "", "detail": "??" },
+            {
+                "time": "11:20 - 11:40",
+                "detail": "Exploring Backdoor Attacks in Federated Learning Under Parameter-Efficient Fine-Tuning"
+            },
+            {
+                "time": "11:40 - 12:00",
+                "detail": "Spoofing Camera Source Attribution via PRNU Transfer Attacks on Physical and AI Generated Images"
+            },
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
                 "time": "13:30 - 14:30",
-                "detail": "Session 2: Cryptography - Side-Channel Attacks and Countermeasures (3 talks) - Session chair: ??"
+                "detail": "Session 6: Cryptography - Side-Channel Attacks and Countermeasures (3 talks) - Session chair: TBD"
             },
-            { "time": "", "detail": "??" },
-            { "time": "", "detail": "??" },
-            { "time": "", "detail": "??" },
+            {
+                "time": "13:30 - 13:50",
+                "detail": "Towards Cross-Device Side-Channel Analysis via Domain-Level Attention Mechanisms"
+            },
+            {
+                "time": "13:50 - 14:10",
+                "detail": "Tighter Bounds for Guessing Entropy in Side-channel Template Attacks"
+            },
+            {
+                "time": "14:10 - 14:30",
+                "detail": "Collision Spanning Tree: Quick Key Recovery in Side-Channel Collision Attacks"
+            },
             { "time": "14:30 - 14:50", "detail": "Break 2 (20 min)", "class": "break" },
             {
                 "time": "14:50 - 15:30",
-                "detail": "Session 3: Biometric Security (2 talks) - Session Chair: ??"
+                "detail": "Session 7: Biometric Security (2 talks) - Session Chair: TBD"
             },
-            { "time": "", "detail": "" },
             {
-                "time": "",
-                "detail": ""
+                "time": "14:50 - 15:10",
+                "detail": "Comparative Evaluation of Lattices for Fuzzy Extractors and Fuzzy Signatures"
+            },
+            {
+                "time": "15:10 - 15:30",
+                "detail": "A New Code-Based Formulation of the Fuzzy Vault Scheme"
             },
             { "time": "15:30 - 16:00", "detail": "Break 3 (30 min)", "class": "break" },
             {
-                "time": "16:00 - 17:00",
-                "detail": "Session 4: Malware Analysis (4 talks) - Session Chair: ??"
+                "time": "16:00 - 17:20",
+                "detail": "Session 8: Malware Analysis (4 talks) - Session Chair: TBD"
             },
             {
-                "time": "",
-                "detail": "??"
+                "time": "16:00 - 16:20",
+                "detail": "HoneySentry: A High-Fidelity Interactive IoT Honeypot for Advanced Threat Detection"
             },
-            { "time": "", "detail": "??s" },
-            { "time": "", "detail": "??" },
             {
-                "time": "18:30 - 21:30",
-                "detail": "Banquet (at 조병두 국제홀)"
+                "time": "16:20 - 16:40",
+                "detail": "Towards Architecture-Independent Function Call Analysis for IoT Malware"
+            },
+            { "time": "16:40 - 17:00", "detail": "A Study on Malicious Browser Extensions in 2025" },
+            {
+                "time": "17:00 - 17:20",
+                "detail": "HGANN-Mal: A Hypergraph Attention Neural Network Approach for Android Malware Detection"
+            },
+            {
+                "time": "18:00 - 21:00",
+                "detail": "Banquet (at the ChoByungDoo International Conference Hall)"
             }
         ]
     },
@@ -109,57 +147,49 @@
             { "time": "09:00 - 09:20", "detail": "Registrations" },
             {
                 "time": "09:20 - 10:40",
-                "detail": "Session 1: Systems Security (4 talks) - Session Chair: ??"
+                "detail": "Session 9: Systems Security (4 talks) - Session Chair: TBD"
             },
             {
-                "time": "",
-                "detail": ""
+                "time": "09:20 - 09:40",
+                "detail": "A Graph-Based Approach to Alert Contextualisation in Security Operations Centres"
             },
-            { "time": "", "detail": "" },
             {
-                "time": "",
-                "detail": ""
+                "time": "09:40 - 10:00",
+                "detail": "HyperSec: An Extensible Hypervisor-Assisted Framework for Kernel Rootkit Detection"
+            },
+            { "time": "10:00 - 10:20", "detail": "BootMarker: UEFI Bootkit Defense via Control-Flow Verification" },
+            {
+                "time": "10:20 - 10:40",
+                "detail": "Ali2Vul: Binary Vulnerability Dataset Expansion via Cross-Modal Alignment"
             },
             { "time": "10:40 - 11:00", "detail": "Break 1 (20 min)", "class": "break" },
             {
                 "time": "11:00 - 12:00",
-                "detail": "Session 2: Access Control & Privacy (3 talks) -  Session Chair: ??"
+                "detail": "Session 10: Access Control & Privacy (3 talks) -  Session Chair: TBD"
             },
             {
-                "time": "",
-                "detail": ""
+                "time": "11:00 - 11:20",
+                "detail": "CryptNyx: Password-hardened encryption with strong anonymity guarantees"
             },
-            { "time": "", "detail": "" },
+            { "time": "11:20 - 11:40", "detail": "Efficient Dynamic Group Signatures with Forward Security" },
             {
-                "time": "",
-                "detail": ""
+                "time": "11:40 - 12:00",
+                "detail": "Zero Trust Continuous Authentication Models and Automated Policy Formulation"
             },
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
-                "time": "13:30 - 14:30",
-                "detail": "Session 3: Smart Contracts and Blockchain Security (3 talks) - Session Chair: ??"
-            },
-            { "time": "", "detail": "" },
-            { "time": "", "detail": "" },
-            { "time": "", "detail": "" },
-            { "time": "14:30 - 14:50", "detail": "Break 2 (20 min)", "class": "break" },
-            {
-                "time": "14:50 - 15:50",
-                "detail": "Session 3: Intrusion Detection and Software Security (3 talks) - Session chair: Daniel Koehler"
+                "time": "13:30 - 14:10",
+                "detail": "Session 11: Smart Contracts and Blockchain Security (2 talks) - Session Chair: TBD"
             },
             {
-                "time": "",
-                "detail": "FedMADE: Robust Federated Learning for Intrusion Detection in IoT Networks Using a Dynamic Aggregation Method"
+                "time": "13:30 - 13:50",
+                "detail": "Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts"
             },
             {
-                "time": "",
-                "detail": "A Lightweight Defense Scheme against Usermode Helper Privilege Escalation Using Linux Capability"
+                "time": "13:50 - 14:10",
+                "detail": "BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques"
             },
-            {
-                "time": "",
-                "detail": "Insider Threat Detection Based on User and Entity Behavior Analysis with a Hybrid Model"
-            },
-            { "time": "15:50 - 16:00", "detail": "Concluding Remarks" }
+            { "time": "14:10 - 14:20", "detail": "Concluding Remarks" }
         ]
     }
 }
