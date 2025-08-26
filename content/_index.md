@@ -23,7 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
--   Registration is currently open via wire transfer. Credit card payment will be accepted beginning in mid-September. \[08/22/2025\]
+-   Registration is currently open via wire transfer. Credit card payment will be accepted beginning in mid-September. \[08/26/2025\]
 -   Our registration opening has been postponed due to credit card payment processing issues. We apologize for the inconvenience and will update you as soon as possible. \[08/20/2025\]
 -   The list of accepted papers is available [here]({{<ref "accepted-papers">}}). \[08/15/2025\]
 -   [Mehdi Tibouchi](https://www.normalesup.org/~tibouchi/) (Distinguished Researcher at NTT Social Informatics Laboratories, Guest Associate Professor at Kyoto University) will be (one of) the keynote speakers! \[07/28/2025\]
