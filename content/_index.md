@@ -15,7 +15,7 @@ academia, industry, and government on traditional as well as emerging
 topics and new paradigms in these areas, with a clear connection to
 real-world problems, systems, or applications.
 
-The 28th edition of ISC will be organized by Department of Convergence Security (융합보안대학원) in [Sungkyunkwan University](https://www.skku.edu/eng/).
+The 28th edition of ISC will be organized by Software Convergence Research Institute (소프트웨어융합연구원) [Sungkyunkwan University](https://www.skku.edu/eng/).
 The conference will
 be held **in-person** at the 600 Years Anniversary Hall, Sungkyunkwan University (Humanities & Social Sciences Campus).
 The proceedings of ISC 2025 will be published as
