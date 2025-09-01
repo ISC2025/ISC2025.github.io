@@ -101,5 +101,5 @@ Further information about past ISC events is available through
 
 <div style="display: flex; align-items: center; justify-content: left;">
   <img src="/img/NCES-logo-mini.png" alt="NCES Logo" width="380"/>
-  <img src="/img/SCRI_소프트웨어융합연구원_로고_page-0001.jpg" alt="SCRI Logo" width="120" style="margin-left: 10px;"/>
+  <img src="/img/SCRI-logo.jpg" alt="SCRI Logo" width="120" style="margin-left: 10px;"/>
 </div>
