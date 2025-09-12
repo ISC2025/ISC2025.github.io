@@ -23,6 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
+-   Payment with credit cards issued in South Korea is now available. We expect to begin accepting overseas-issued credit cards next week. \[09/12/2025\]
 -   Registration is currently open via wire transfer. Credit card payment will be accepted beginning in mid-September. \[08/26/2025\]
 -   Our registration opening has been postponed due to credit card payment processing issues. We apologize for the inconvenience and will update you as soon as possible. \[08/20/2025\]
 -   The list of accepted papers is available [here]({{<ref "accepted-papers">}}). \[08/15/2025\]
