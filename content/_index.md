@@ -15,7 +15,7 @@ academia, industry, and government on traditional as well as emerging
 topics and new paradigms in these areas, with a clear connection to
 real-world problems, systems, or applications.
 
-The 28th edition of ISC will be organized by Software Convergence Research Institute (소프트웨어융합연구원) and National Center of Excellence in Software (SW중심대학사업단) at [Sungkyunkwan University](https://www.skku.edu/eng/).
+The 28th edition of ISC will be organized by Software Convergence Research Institute (소프트웨어융합연구원), National Center of Excellence in Software (SW중심대학사업단), and Convergence security core talent training business (융합보안대학원) at [Sungkyunkwan University](https://www.skku.edu/eng/).
 The conference will
 be held **in-person** at the 600 Years Anniversary Hall, Sungkyunkwan University (Humanities & Social Sciences Campus).
 The proceedings of ISC 2025 will be published as
@@ -102,5 +102,8 @@ Further information about past ISC events is available through
 
 <div style="display: flex; align-items: center; justify-content: left;">
   <img src="/img/NCES-logo-mini.png" alt="NCES Logo" width="380"/>
+
   <img src="/img/SCRI-logo.jpg" alt="SCRI Logo" width="120" style="margin-left: 10px;"/>
+      <img src="/img/융보대-logo.png" alt="Security Logo" width="220" style="margin-left: 10px;"/>
+
 </div>
