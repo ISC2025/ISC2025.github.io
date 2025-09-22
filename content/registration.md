@@ -23,7 +23,7 @@ In order to complete the registration procedure please use the button below:
 <!-- **We are under testing for registration; please wait until further notice.** -->
 
 **Registration is currently open! Either wire transfer or credit card payment is accepted.**
-{{< button href="https://osia.or.kr/isc2025.php" class="btn" target="_blank" >}}Registration{{< /button >}}
+{{< button href="[https://osia.or.kr/isc2025.php](https://osia.or.kr/isc2025.php)" class="btn" target="_blank" >}}Registration{{< /button >}}
 For detailed instructions, please check the <a href="https://isc25.skku.edu/registration/guide" target="_blank">Registration Guide</a>.
 
 <br>
