@@ -15,7 +15,7 @@ layout = "registration-guide"
 
     {{< figure src="/img/regis_0.png" width="500">}}
 
-#### 2. Fill in the Registration Form
+#### 2. Fill out the Registration Form
 
 Enter your personal information.\
 {{< figure src="/img/regis_1.png" width="600">}}
