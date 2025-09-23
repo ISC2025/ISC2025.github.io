@@ -9,7 +9,7 @@ layout = "registration-guide"
 -   [1. Click the Registration Button](#1-click-the-registration-button)
 -   [2. Fill in the Registration Form](#2-fill-in-the-registration-form)
 -   [3. Review Your Information](#3-review-your-information)
--   [4. Payment](#4-payment
+-   [4. Payment](#4-payment)
 -   [Troubleshooting](#troubleshooting)
 
 --- -->
@@ -45,7 +45,7 @@ Scroll down to select your card (VISA, Mastercard, AMEX, JCB, UnionPay) and comp
 
 #### Troubleshooting
 
-1. Visit the registration site: https://osia.or.kr/ocs/include/regmodi.foreign.php?sNo=170&gID=1
+1. Visit the registration site: https://osia.or.kr/isc2025.php
 2. Click the **Check Registration Info** button, located in the top-right corner.
 3. Log in using your email address and password.
 4. When the payment screen appears, please click the **Other Card** button to see more options.
