@@ -23,6 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
+-   We have released the [registration guide](https://isc25.skku.edu/registration/guide/). If you forget your password, please let us know (for8821@g.skku.edu) \[9/23/2025\]
 -   Now the [registration](https://isc25.skku.edu/registration) is fully open! \[9/17/2025\]
 -   Payment with credit cards issued in South Korea is now available. We expect to begin accepting overseas-issued credit cards next week. \[09/12/2025\]
 -   Registration is currently open via wire transfer. Credit card payment will be accepted beginning in mid-September. \[08/26/2025\]
