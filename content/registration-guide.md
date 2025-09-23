@@ -9,7 +9,7 @@ layout = "registration-guide"
 -   [1. Click the Registration Button](#1-click-the-registration-button)
 -   [2. Fill in the Registration Form](#2-fill-in-the-registration-form)
 -   [3. Review Your Information](#3-review-your-information)
--   [4. Payment](#4-payment)
+-   [4. Payment](#4-payment
 -   [Troubleshooting](#troubleshooting)
 
 --- -->
