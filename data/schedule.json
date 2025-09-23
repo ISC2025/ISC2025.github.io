@@ -6,13 +6,13 @@
             { "time": "09:20 - 09:40", "detail": "Welcome Statement by General and PC Co-chairs" },
             {
                 "time": "09:40 - 10:40",
-                "detail": "Keynote by Mehdi Tibouchi - Session chair: TBD",
+                "detail": "Keynote by Mehdi Tibouchi - Session chair: Jeongeun Park",
                 "class": "keynote"
             },
             { "time": "10:40 - 11:00", "detail": "Break 1 (20 min)", "class": "break" },
             {
                 "time": "11:00 - 12:00",
-                "detail": "Session 1: Cryptanalysis and Cipher Security (3 talks) - Session chair: TBD"
+                "detail": "Session 1: Cryptanalysis and Cipher Security (3 talks) - Session chair: Jeongeun Park"
             },
             {
                 "time": "11:00 - 11:20",
@@ -23,7 +23,7 @@
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
                 "time": "13:30 - 14:30",
-                "detail": "Session 2: Network Security (3 talks) - Session chair: TBD"
+                "detail": "Session 2: Network Security (3 talks) - Session chair: Jaeseung Choi"
             },
             { "time": "13:30 - 13:50", "detail": "SimSeq:A Robust TLS Traffic Classification Method" },
             {
@@ -37,7 +37,7 @@
             { "time": "14:30 - 14:50", "detail": "Break 2 (20 min)", "class": "break" },
             {
                 "time": "14:50 - 15:30",
-                "detail": "Session 3: Post quantum cryptography (2 talks) - Session Chair: TBD"
+                "detail": "Session 3: Post quantum cryptography (2 talks) - Session Chair: Hyung Tae Lee"
             },
             {
                 "time": "14:50 - 15:10",
@@ -47,7 +47,7 @@
             { "time": "15:30 - 16:00", "detail": "Break 3 (30 min)", "class": "break" },
             {
                 "time": "16:00 - 17:00",
-                "detail": "Session 4: Systems - Side-Channel Attacks and Countermeasures (3 talks) - Session Chair: TBD"
+                "detail": "Session 4: Systems - Side-Channel Attacks and Countermeasures (3 talks) - Session Chair: Hyunwoo Choi"
             },
             {
                 "time": "16:00 - 16:20",
@@ -67,13 +67,13 @@
             { "time": "08:00 - 09:30", "detail": "Registrations / Breakfast" },
             {
                 "time": "09:30 - 10:30",
-                "detail": "Keynote by Hyoungshick Kim - Session chair: TBD",
+                "detail": "Keynote by Hyoungshick Kim - Session chair: Sang Kil Cha",
                 "class": "keynote"
             },
             { "time": "10:30 - 11:00", "detail": "Break 1 (30 min)", "class": "break" },
             {
                 "time": "11:00 - 12:00",
-                "detail": "Session 5: AI security (3 talks) - Session chair: TBD"
+                "detail": "Session 5: AI security (3 talks) - Session chair: Gihyuk Ko"
             },
             {
                 "time": "11:00 - 11:20",
@@ -90,7 +90,7 @@
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
                 "time": "13:30 - 14:30",
-                "detail": "Session 6: Cryptography - Side-Channel Attacks and Countermeasures (3 talks) - Session chair: TBD"
+                "detail": "Session 6: Cryptography - Side-Channel Attacks and Countermeasures (3 talks) - Session chair: Ilaria Chillotti"
             },
             {
                 "time": "13:30 - 13:50",
@@ -107,7 +107,7 @@
             { "time": "14:30 - 14:50", "detail": "Break 2 (20 min)", "class": "break" },
             {
                 "time": "14:50 - 15:30",
-                "detail": "Session 7: Biometric Security (2 talks) - Session Chair: TBD"
+                "detail": "Session 7: Biometric Security (2 talks) - Session Chair: Damien Ligier"
             },
             {
                 "time": "14:50 - 15:10",
@@ -120,7 +120,7 @@
             { "time": "15:30 - 16:00", "detail": "Break 3 (30 min)", "class": "break" },
             {
                 "time": "16:00 - 17:20",
-                "detail": "Session 8: Malware Analysis (4 talks) - Session Chair: TBD"
+                "detail": "Session 8: Malware Analysis (4 talks) - Session Chair: Soomin Kim"
             },
             {
                 "time": "16:00 - 16:20",
@@ -147,7 +147,7 @@
             { "time": "08:00 - 09:30", "detail": "Registrations / Breakfast" },
             {
                 "time": "09:20 - 10:40",
-                "detail": "Session 9: Systems Security (4 talks) - Session Chair: TBD"
+                "detail": "Session 9: Systems Security (4 talks) - Session Chair: Daehee Jang"
             },
             {
                 "time": "09:20 - 09:40",
@@ -165,7 +165,7 @@
             { "time": "10:40 - 11:00", "detail": "Break 1 (20 min)", "class": "break" },
             {
                 "time": "11:00 - 12:00",
-                "detail": "Session 10: Access Control & Privacy (3 talks) -  Session Chair: TBD"
+                "detail": "Session 10: Access Control & Privacy (3 talks) -  Session Chair: Gyuhyeon Choi"
             },
             {
                 "time": "11:00 - 11:20",
@@ -179,7 +179,7 @@
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
                 "time": "13:30 - 14:10",
-                "detail": "Session 11: Smart Contracts and Blockchain Security (2 talks) - Session Chair: TBD"
+                "detail": "Session 11: Smart Contracts and Blockchain Security (2 talks) - Session Chair: Soomin Kim"
             },
             {
                 "time": "13:30 - 13:50",
