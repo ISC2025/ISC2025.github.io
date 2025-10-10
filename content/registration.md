@@ -5,7 +5,7 @@ menu = 'main'
 weight = 5
 +++
 
-**Authors**: **At least one author from each accepted paper must complete a registration for the conference prior to October 13th** and is expected to present it in person at the conference. If there is a clearly explained, objective reason that prevents all the authors of a paper from traveling (e.g., officially rejected visa applications), please contact
+**Authors**: **At least one author from each accepted paper must complete a registration for the conference prior to October 17th** and is expected to present it in person at the conference. If there is a clearly explained, objective reason that prevents all the authors of a paper from traveling (e.g., officially rejected visa applications), please contact
 Hyungjoon Koo (kevin.koo@skku.edu) to reach a solution. **Warning**: If you fail to complete the registration or do not present the paper in person without an approved solution, your paper may not be included in the conference program or the final conference proceedings.
 
 **Students**:
@@ -13,10 +13,10 @@ The participants with a student registration will be required to prove their sta
 
 Please refer to the table below for the ISC 2025 registration costs (KRW):
 
-| Category | Early Bird (until October 13th) | ~~Standard (until October 13th)~~ |
-| :------- | :----------------------------- | :---------------------------- |
-| Student  | ₩ 800,000                      | ~~₩ 900,000~~                     |
-| Regular  | ₩ 900,000                      | ~~₩ 1,000,000~~                   |
+| Category | Early Bird (until October ~~13th~~ 17th) | ~~Standard (until October 13th)~~ |
+| :------- | :--------------------------------------- | :-------------------------------- |
+| Student  | ₩ 800,000                                | ~~₩ 900,000~~                     |
+| Regular  | ₩ 900,000                                | ~~₩ 1,000,000~~                   |
 
 In order to complete the registration procedure please use the button below:
 
@@ -24,7 +24,7 @@ In order to complete the registration procedure please use the button below:
 
 **Registration is currently open! Either wire transfer or credit card payment is accepted.**
 
-**Due to unexpected payment issues, we decided to offer a flat rate for the entire registration until October 13th.**
+**Due to unexpected payment issues, we decided to offer a flat rate for the entire registration until October ~~13th~~ 17th.**
 {{< button href="https://osia.or.kr/isc2025.php" class="btn" target="_blank" >}}Registration{{< /button >}}
 For detailed instructions, please check the <a href="https://isc25.skku.edu/registration/guide" target="_blank">Registration Guide</a>.
 
