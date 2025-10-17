@@ -90,19 +90,16 @@
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
                 "time": "13:30 - 14:30",
-                "detail": "**Session 6: Cryptography - Side-Channel Attacks and Countermeasures (3 talks) - Session chair: Ilaria Chillotti**"
+                "detail": "**Session 6: Access Control & Privacy (3 talks) -  Session chair: Ilaria Chillotti**"
             },
             {
                 "time": "13:30 - 13:50",
-                "detail": "Towards Cross-Device Side-Channel Analysis via Domain-Level Attention Mechanisms"
+                "detail": "CryptNyx: Password-hardened encryption with strong anonymity guarantees"
             },
-            {
-                "time": "13:50 - 14:10",
-                "detail": "Tighter Bounds for Guessing Entropy in Side-channel Template Attacks"
-            },
+            { "time": "13:50 - 14:10", "detail": "Efficient Dynamic Group Signatures with Forward Security" },
             {
                 "time": "14:10 - 14:30",
-                "detail": "Collision Spanning Tree: Quick Key Recovery in Side-Channel Collision Attacks"
+                "detail": "Zero Trust Continuous Authentication Models and Automated Policy Formulation"
             },
             { "time": "14:30 - 14:50", "detail": "Break 2 (20 min)", "class": "break" },
             {
@@ -164,16 +161,19 @@
             { "time": "10:40 - 11:00", "detail": "Break 1 (20 min)", "class": "break" },
             {
                 "time": "11:00 - 12:00",
-                "detail": "**Session 10: Access Control & Privacy (3 talks) -  Session chair: Gyuhyeon Choi**"
+                "detail": "**Session 10: Cryptography - Side-Channel Attacks and Countermeasures (3 talks) - Session chair: Gyuhyeon Choi**"
             },
             {
                 "time": "11:00 - 11:20",
-                "detail": "CryptNyx: Password-hardened encryption with strong anonymity guarantees"
+                "detail": "Towards Cross-Device Side-Channel Analysis via Domain-Level Attention Mechanisms"
             },
-            { "time": "11:20 - 11:40", "detail": "Efficient Dynamic Group Signatures with Forward Security" },
+            {
+                "time": "11:20 - 11:40",
+                "detail": "Tighter Bounds for Guessing Entropy in Side-channel Template Attacks"
+            },
             {
                 "time": "11:40 - 12:00",
-                "detail": "Zero Trust Continuous Authentication Models and Automated Policy Formulation"
+                "detail": "Collision Spanning Tree: Quick Key Recovery in Side-Channel Collision Attacks"
             },
             { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
             {
