@@ -158,37 +158,21 @@
                 "time": "10:20 - 10:40",
                 "detail": "Ali2Vul: Binary Vulnerability Dataset Expansion via Cross-Modal Alignment"
             },
-            { "time": "10:40 - 11:00", "detail": "Break 1 (20 min)", "class": "break" },
+            { "time": "10:40 - 11:10", "detail": "Break 1 (30 min)", "class": "break" },
             {
-                "time": "11:00 - 12:00",
-                "detail": "**Session 10: Cryptography - Side-Channel Attacks and Countermeasures (3 talks) - Session chair: Gyuhyeon Choi**"
+                "time": "11:10 - 11:50",
+                "detail": "**Session 10: Smart Contracts and Blockchain Security (2 talks) - Session chair: Soomin Kim**"
             },
             {
-                "time": "11:00 - 11:20",
-                "detail": "Towards Cross-Device Side-Channel Analysis via Domain-Level Attention Mechanisms"
-            },
-            {
-                "time": "11:20 - 11:40",
-                "detail": "Tighter Bounds for Guessing Entropy in Side-channel Template Attacks"
-            },
-            {
-                "time": "11:40 - 12:00",
-                "detail": "Collision Spanning Tree: Quick Key Recovery in Side-Channel Collision Attacks"
-            },
-            { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" },
-            {
-                "time": "13:30 - 14:10",
-                "detail": "**Session 11: Smart Contracts and Blockchain Security (2 talks) - Session chair: Soomin Kim**"
-            },
-            {
-                "time": "13:30 - 13:50",
+                "time": "11:10 - 11:30",
                 "detail": "Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts"
             },
             {
-                "time": "13:50 - 14:10",
+                "time": "11:30 - 11:50",
                 "detail": "BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques"
             },
-            { "time": "14:10 - 14:20", "detail": "Concluding Remarks" }
+            { "time": "11:50 - 12:00", "detail": "Concluding Remarks" },
+            { "time": "12:00 - 13:30", "detail": "Lunch", "class": "block-crypto" }
         ]
     }
 }

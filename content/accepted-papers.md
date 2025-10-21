@@ -17,7 +17,6 @@ weight = 4
 | Towards Architecture-Independent Function Call Analysis for IoT Malware                                                        | K. Ma, C. Han, A. Tanaka, T. Takahashi, J. Takeuchi                                   |
 | HyperSec: an Extensible Hypervisor-Assisted Framework for Kernel Rootkit Detection                                             | L. Hemmerle, G. Hiet, F. Tronel, P. Wilke, J.-C. Prevotet                             |
 | Comparative Evaluation of Lattices for Fuzzy Extractors and Fuzzy Signatures                                                   | W. Nakamura, Y. Suzuki, M. Fujio, K. Takahashi                                        |
-| Towards Cross-Device Side-Channel Analysis via Domain-Level Attention Mechanisms                                               | J. Gao, C. Ou, M. Liu, T. Wang, F. Zhang, J. Zhang                                    |
 | BootMarker: UEFI Bootkit Defense via Control-Flow Verification                                                                 | J. Lee, J. Kwon, M. Lee, H. Seo, J. Jung                                              |
 | Keyless Physical-Layer Cryptography                                                                                            | S. Liu, D. Cai, D. Han, H. Liu, X. Lu                                                 |
 | Zero Trust Continuous Authentication Models and Automated Policy Formulation                                                   | N. Vombatkere, P. W. L. Fong                                                          |
@@ -27,8 +26,6 @@ weight = 4
 | GIR-Cache: Mitigating Conflict-Based Cache Side-Channel Attacks Via Global Indirect Replacement                                | H. Ma, Z. Wang, D. Xie, C. Ouyang, W. Song                                            |
 | Inference Attacks on Encrypted Online Voting via Traffic Analysis                                                              | A. Belousova, F. Marchiori, M. Conti                                                  |
 | MSPP-Net: Fine-grained image privacy identification via multi-stage semantic perception                                        | Y. Li, B. Chen, Q. Jiang, T. Chen                                                     |
-| Tighter Bounds for Guessing Entropy in Side-channel Template Attacks                                                           | J. Zhang, C. Ou, M. Liu, J. Zhang, J. Long, R. Zhang, J. Gao                          |
-| Collision Spanning Tree: Quick Key Recovery in Side-Channel Collision Attacks                                                  | S. Yan, J. Zhang, R. Wen, Y. Cheng, C. Ou, K. Qiao                                    |
 | EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory | C. Wang, B. Yu, L. Yang                                                               |
 | Exploring Backdoor Attacks in Federated Learning Under Parameter-Efficient Fine-Tuning                                         | X. Huang, X. Zhu, C. Chen                                                             |
 | Ali2Vul: Binary Vulnerability Dataset Expansion via Cross-Modal Alignment                                                      | X. Bai, Y. Wang, J. Du, C. Liang, S. Liang, Z. Jiang                                  |
