@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Home on ISC 2025</title><link>https://isc25.skku.edu/</link><description>Recent content in Home on ISC 2025</description><generator>Hugo</generator><language>en</language><lastBuildDate>Thu, 06 Feb 2025 14:07:09 -0500</lastBuildDate><atom:link href="https://isc25.skku.edu/index.xml" rel="self" type="application/rss+xml"/><item><title>Call for Papers</title><link>https://isc25.skku.edu/call-for-papers/</link><pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate><guid>https://isc25.skku.edu/call-for-papers/</guid><description>&lt;p&gt;The Information Security Conference (ISC) is an annual international conference covering research in theory and applications of Information Security. ISC aims to attract high quality papers in all technical aspects of information security.&lt;/p&gt;
+&lt;p&gt;This includes submissions from academia, industry and government on traditional as well as emerging topics and new paradigms in these areas, with a clear connection to real-world problems, systems, or applications.&lt;/p&gt;
+&lt;h2 id="types-of-submissions-solicited"&gt;Types of Submissions Solicited&lt;/h2&gt;
+&lt;p&gt;Papers on all technical aspects of information security, cryptography, and privacy are solicited for submission. Areas of interest include, but are not limited to:&lt;/p&gt;</description></item><item><title>Committee</title><link>https://isc25.skku.edu/committee/</link><pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate><guid>https://isc25.skku.edu/committee/</guid><description>&lt;p&gt;&lt;strong&gt;General Chairs&lt;/strong&gt;&lt;br&gt;
+Hyungjoon Koo (Sungkyunkwan University)&lt;br&gt;
+Hojoon Lee (Sungkyunkwan University)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Program Chairs&lt;/strong&gt;&lt;br&gt;
+Sang Kil Cha (KAIST)&lt;br&gt;
+Jeongeun Park (NTNU)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Steering Committee&lt;/strong&gt;&lt;br&gt;
+Zhiqiang Lin (The Ohio State University)&lt;br&gt;
+Javier Lopez (University of Malaga)&lt;br&gt;
+Masahiro Mambo (Kanazawa University)&lt;br&gt;
+Nicky Mouha (Strativia &amp;amp; NIST Associate, USA)&lt;br&gt;
+Eiji Okamoto (University of Tsukuba)&lt;br&gt;
+Michalis Polychronakis (Stony Brook University)&lt;br&gt;
+Willy Susilo (University of Wollongong)&lt;br&gt;
+Jianying Zhou (Singapore University of Technology and Design)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Publications Chair&lt;/strong&gt;&lt;br&gt;
+Yuseok Jeon (Korea University)&lt;/p&gt;</description></item><item><title>Accepted Papers</title><link>https://isc25.skku.edu/accepted-papers/</link><pubDate>Mon, 05 Aug 2024 14:24:34 +0800</pubDate><guid>https://isc25.skku.edu/accepted-papers/</guid><description>&lt;table&gt;
+ &lt;thead&gt;
+ &lt;tr&gt;
+ &lt;th style="text-align: left"&gt;&lt;/th&gt;
+ &lt;th style="text-align: left"&gt;&lt;/th&gt;
+ &lt;/tr&gt;
+ &lt;/thead&gt;
+ &lt;tbody&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;CryptNyx: Password-hardened encryption with strong anonymity guarantees&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;T. Dimitriou, S. Alshaher&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;SimSeq: A Robust TLS Traffic Classification Method&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;J. Cheng, F. Zeng&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;A Graph-Based Approach to Alert Contextualisation in Security Operations Centres&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;M. W. Eckhoff, P. M. Flydal, S. Peters, M. Eian, J. Halvorsen, V. Mavroeidis, G. Grov&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Simulation-based Software Leakage Evaluation for the RISC-V Platform&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;N. Schmitt, J. Zeitschner, A. Heinemann&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Efficient Dynamic Group Signatures with Forward Security&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;A. Mohammadali, R. AlTawy&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Improving the Differential-Linear Attack with Applications to GIFT-COFB, GIFT-64 and HyENA&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Z. Zhang, Y. Chen, L. Song, Y. Lv&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;HoneySentry: A High-Fidelity Interactive IoT Honeypot for Advanced Threat Detection&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Y. Shen, H. Sun, J. Wang, H. Xu, G. Liu, F. Zhang&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Towards Architecture-Independent Function Call Analysis for IoT Malware&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;K. Ma, C. Han, A. Tanaka, T. Takahashi, J. Takeuchi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;HyperSec: an Extensible Hypervisor-Assisted Framework for Kernel Rootkit Detection&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;L. Hemmerle, G. Hiet, F. Tronel, P. Wilke, J.-C. Prevotet&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Comparative Evaluation of Lattices for Fuzzy Extractors and Fuzzy Signatures&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;W. Nakamura, Y. Suzuki, M. Fujio, K. Takahashi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;BootMarker: UEFI Bootkit Defense via Control-Flow Verification&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;J. Lee, J. Kwon, M. Lee, H. Seo, J. Jung&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Keyless Physical-Layer Cryptography&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;S. Liu, D. Cai, D. Han, H. Liu, X. Lu&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Zero Trust Continuous Authentication Models and Automated Policy Formulation&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;N. Vombatkere, P. W. L. Fong&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;A New Code-Based Formulation of the Fuzzy Vault Scheme&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;S. Majbour, M. Barbier, J.-M. Le Bars&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Z. Niu, X. Li, H. Zhao, T. Zhou, H. Cheng&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;&lt;strong&gt;(Best Paper Award)&lt;/strong&gt; The Multi-User Security of GCM-SST and Further Enhancements&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Y. Naito, Y. Sasaki, T. Sugawara&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;GIR-Cache: Mitigating Conflict-Based Cache Side-Channel Attacks Via Global Indirect Replacement&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;H. Ma, Z. Wang, D. Xie, C. Ouyang, W. Song&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Inference Attacks on Encrypted Online Voting via Traffic Analysis&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;A. Belousova, F. Marchiori, M. Conti&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;MSPP-Net: Fine-grained image privacy identification via multi-stage semantic perception&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;Y. Li, B. Chen, Q. Jiang, T. Chen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;EvoFuzz: Enhancing State Space Exploration and Seed Prioritization in Stateful Protocol Fuzzing using Evolutionary Game Theory&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;C. Wang, B. Yu, L. Yang&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Exploring Backdoor Attacks in Federated Learning Under Parameter-Efficient Fine-Tuning&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;X. Huang, X. Zhu, C. Chen&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Ali2Vul: Binary Vulnerability Dataset Expansion via Cross-Modal Alignment&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;X. Bai, Y. Wang, J. Du, C. Liang, S. Liang, Z. Jiang&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Conditional Attribute-Based PRE: Definition and Construction from LWE&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;L. Yao, J. Weng, P. Wu, G. Tang, G. Yang, H. Xue, R. H. Deng&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;Spoofing Camera Source Attribution via PRNU Transfer Attacks on Physical and AI Generated Images&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;S. R. Khan, T. Islam, R. Hasan&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;HGANN-Mal: A Hypergraph Attention Neural Network Approach for Android Malware Detection&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;R. Norouzian, C. Eckert&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;LastRings: Lattice-based Scalable Threshold Ring Signatures&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;S. Jeon, C. A. Haidar, M. Tibouchi&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;BlockLens: Detecting Malicious Transactions in Ethereum Using LLM Techniques&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;C. Feng, L. Fan&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;tr&gt;
+ &lt;td style="text-align: left"&gt;A Lot of Data and Added Complexity. How Does PQC Affect the Performance of My TLS Connection?&lt;/td&gt;
+ &lt;td style="text-align: left"&gt;J. Henrich, N. Schmitt, N. Alnahawi, A. Heinemann&lt;/td&gt;
+ &lt;/tr&gt;
+ &lt;/tbody&gt;
+&lt;/table&gt;</description></item><item><title>Registration</title><link>https://isc25.skku.edu/registration/</link><pubDate>Mon, 05 Aug 2024 14:32:04 +0800</pubDate><guid>https://isc25.skku.edu/registration/</guid><description>&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: &lt;strong&gt;At least one author from each accepted paper must complete a registration for the conference prior to October 17th&lt;/strong&gt; and is expected to present it in person at the conference. If there is a clearly explained, objective reason that prevents all the authors of a paper from traveling (e.g., officially rejected visa applications), please contact
+Hyungjoon Koo (&lt;a href="mailto:kevin.koo@skku.edu"&gt;kevin.koo@skku.edu&lt;/a&gt;) to reach a solution. &lt;strong&gt;Warning&lt;/strong&gt;: If you fail to complete the registration or do not present the paper in person without an approved solution, your paper may not be included in the conference program or the final conference proceedings.&lt;/p&gt;</description></item><item><title>Keynotes</title><link>https://isc25.skku.edu/keynote/</link><pubDate>Wed, 06 Mar 2024 14:07:08 -0500</pubDate><guid>https://isc25.skku.edu/keynote/</guid><description>&lt;h3 id="title-secure-programming-with-large-language-models-are-we-there-yet"&gt;Title: Secure Programming with Large Language Models: Are We There Yet?&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Speaker&lt;/strong&gt;: &lt;a href="https://seclab.skku.edu/people/hyoungshick-kim/"&gt;Hyoungshick Kim&lt;/a&gt; (Sungkyunkwan University)
+&lt;figure class="left"&gt;&lt;img src="https://isc25.skku.edu/img/hyoung_hp1-300x225.jpg" width="200"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Date&lt;/strong&gt;: October 20, 2025 &lt;br&gt;
+&lt;strong&gt;Abstract&lt;/strong&gt;: AI coding assistants, such as GitHub Copilot, have quickly become an integral part of developers&amp;rsquo; everyday workflows, but how safe is the code they generate? In this talk, I’ll dive into what makes AI-generated code insecure, drawing from recent case studies and experiments. I&amp;rsquo;ll walk through efforts to improve security using fine-tuning, prompt engineering, and retrieval-augmented techniques, as well as our own approach to automated patch generation using vulnerability logs. This talk highlights both the potential and the current gaps in making large language models truly helpful for secure programming. The goal is to move beyond fixing bugs to actually teaching models why code is secure.&lt;/p&gt;</description></item><item><title>Schedule</title><link>https://isc25.skku.edu/schedule/</link><pubDate>Tue, 17 Sep 2024 19:19:02 -0400</pubDate><guid>https://isc25.skku.edu/schedule/</guid><description>&lt;style&gt;
+	table {
+		border-collapse: collapse;
+		border: none;
+		table-layout: fixed;
+		width: 100%;
+	}
+	col.time-col {
+		width: 140px;
+	}
+
+	td {
+		border: solid windowtext 1pt;
+		vertical-align: middle;
+	}
+	.centered {
+		text-align: center;
+	}
+
+	.tdheader {
+		background-color: #f68b3c;
+		text-align: center;
+		vertical-align: middle;
+	}
+	.tdheader p {
+		margin: 0;
+		line-height: 1.5;
+		display: flex;
+		justify-content: center;
+		align-items: center;
+		height: 100%;
+	}
+
+	td.time-cell {
+		white-space: nowrap;
+		text-align: center;
+		padding: 6px 10px;
+	}
+
+	td.event-cell {
+		white-space: normal;
+		overflow: visible;
+		text-overflow: clip;
+		text-align: center;
+		vertical-align: middle;
+		padding: 6px 12px;
+		line-height: 1.35;
+	}
+
+	td.event-cell p {
+		margin: 0;
+	}
+
+	.timezone {
+		background-color: #0070c0;
+		color: #fff;
+	}
+	.block-crypto {
+		background-color: #f7caac;
+	}
+	.keynote {
+		background-color: #5ad0f5;
+	}
+	.break {
+		background-color: #ffe599;
+	}
+	.ex1t {
+		background-color: #f7caac;
+	}
+&lt;/style&gt;
+
+&lt;div
+	align="center"
+	style="
+		margin: 0 0 8pt 0;
+		text-align: justify;
+		line-height: 107%;
+		font-size: 16px;
+	"
+&gt;
+	&lt;table&gt;
+		&lt;colgroup&gt;
+			&lt;col class="time-col" /&gt;
+			&lt;col /&gt;
+		&lt;/colgroup&gt;
+		&lt;tbody&gt;
+			&lt;tr&gt;
+				&lt;td colspan="2" class="tdheader"&gt;
+					&lt;p class="centered"&gt;Mon. 20 Oct 2025 (Day 1)&lt;/p&gt;</description></item><item><title>Venue</title><link>https://isc25.skku.edu/venue/</link><pubDate>Wed, 06 Mar 2024 14:07:09 -0500</pubDate><guid>https://isc25.skku.edu/venue/</guid><description>&lt;p&gt;ISC'25 will be held in the 600th Anniversary Hall (Sohyang Lecture Room, 6th Floor, 10602) at the &lt;a href="https://hall.skku.edu/Hall/LectureRoom_2021.jsp"&gt;Humanities &amp;amp; Social Sciences Campus&lt;/a&gt; of Sungkyunkwan University (SKKU), see the location of the &lt;a href="https://maps.app.goo.gl/1gQDiddstpWQT63H9"&gt;venue&lt;/a&gt; here.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Address&lt;/em&gt;: Sungkyunkwan University (Humanities &amp;amp; Social Sciences Campus), 25-2 Seonggyungwan-ro, Jongno District, Seoul, South Korea&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Nearby Airports:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Incheon International Airport (ICN)&lt;/li&gt;
+&lt;li&gt;Gimpo International Airport (GMP)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Transportation:&lt;/strong&gt; Taxi, Bus, Metro (Station: Hyehwa Station (Line 4))&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;University Shuttle Bus:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Route: Hyehwa Station (Line 4, Exit 1) ↔ SKKU 600th Anniversary Hall&lt;/li&gt;
+&lt;li&gt;Operating Hours: Monday-Friday, 07:00-23:00&lt;/li&gt;
+&lt;li&gt;Fare: 400 KRW (payment accepted by credit/debit cards with postpaid transit function, T-money, or Cashbee cards)&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://route.hellobus.co.kr:8787/pub/routeView/skku/bis_view.html"&gt;Real-time shuttle bus information&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.skku.edu/eng/CampusLife/convenience/Shuttlebus.do?mode=hView&amp;amp;srId=46"&gt;More information on the SKKU shuttle bus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Parking:&lt;/strong&gt; Visitor parking is available in the 600th Anniversary Hall parking garage (&lt;a href="https://www.skku.edu/eng/About/campusinfo/parking.do"&gt;all day: 30,000 KRW ($21)&lt;/a&gt;).&lt;/p&gt;</description></item><item><title>Contact</title><link>https://isc25.skku.edu/contact/</link><pubDate>Thu, 06 Feb 2025 14:07:09 -0500</pubDate><guid>https://isc25.skku.edu/contact/</guid><description>&lt;p&gt;Contact for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Registration, Invitation letter, etc. please send an email to
+Local Organization Team &lt;a href="mailto:shr2008@g.skku.edu"&gt;Yujeong Kwon&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;Issues about the paper submission, please contact the PC chairs: &lt;a href="mailto:sangkilc@kaist.ac.kr"&gt;Sang Kil Cha&lt;/a&gt; and &lt;a href="mailto:jeongeun.park@ntnu.no"&gt;Jeongeun Park&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;</description></item><item><title>ISC Code of Conduct</title><link>https://isc25.skku.edu/code-of-conduct/</link><pubDate>Wed, 28 Aug 2024 11:53:49 -0400</pubDate><guid>https://isc25.skku.edu/code-of-conduct/</guid><description>&lt;p&gt;Thank you for attending ISC’25. At ISC, we are dedicated to providing a safe and enjoyable event experience for all participants, fostering a welcoming environment for open discussion and the exchange of ideas. Harassment in any form will not be tolerated.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Expectations: Be Inclusive, Considerate, Respectful, and Kind&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ISC is a community that welcomes and supports people of all backgrounds and identities.&lt;/li&gt;
+&lt;li&gt;Always conduct yourself professionally, whether onsite, online, or when using social media, including the ISC hashtag.&lt;/li&gt;
+&lt;li&gt;A comfortable and safe environment is key to productivity and creativity. Your actions can impact others, so please be respectful of differing opinions.&lt;/li&gt;
+&lt;li&gt;Harassment and exclusionary behaviors are unacceptable. This includes, but is not limited to, threats of violence; discriminatory jokes or language; sharing sexually explicit or violent material; personal insults, particularly those using racist or sexist terms; unwelcome sexual attention; and advocating for or encouraging any of these behaviors. If someone asks you to stop something, you are expected to comply immediately.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Who is Covered Under This Code of Conduct?&lt;/strong&gt;&lt;br&gt;
+This Code of Conduct applies to all attendees, speakers, sponsors, staff, and volunteers at our events. ISC staff will enforce this Code throughout the event and expects cooperation from all participants. For more information, refer to the &lt;a href="https://www.springernature.com/gp/authors/book-authors-code-of-conduct"&gt;Book Authors&amp;rsquo; Code of Conduct&lt;/a&gt; from Springer. If you need to report behavior that violates this Code, please inform staff at the registration desk or email &lt;a href="mailto:kevin.koo@skku.edu"&gt;kevin.koo@skku.edu&lt;/a&gt;.&lt;/p&gt;</description></item><item><title>Registration Guide</title><link>https://isc25.skku.edu/registration/guide/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://isc25.skku.edu/registration/guide/</guid><description>&lt;h4 id="1-click-the-registration-button"&gt;1. Click the Registration Button&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Choose the appropriate option at the bottom of the registration page:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Register (Korean)&lt;/strong&gt;: For participants using a Korean credit card.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Register (International)&lt;/strong&gt;: For participants using an international credit card.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;&lt;img src="https://isc25.skku.edu/img/regis_0.png" width="500"&gt;
+ &lt;/figure&gt;
+
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id="2-fill-out-the-registration-form"&gt;2. Fill out the Registration Form&lt;/h4&gt;
+&lt;p&gt;Enter your personal information.&lt;br&gt;
+&lt;figure&gt;&lt;img src="https://isc25.skku.edu/img/regis_1.png" width="600"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id="3-review-your-information"&gt;3. Review Your Information&lt;/h4&gt;
+&lt;p&gt;Confirm all the details you entered.
+&lt;figure&gt;&lt;img src="https://isc25.skku.edu/img/regis_2.png" width="600"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;h4 id="4-payment"&gt;4. Payment&lt;/h4&gt;
+&lt;p&gt;Select your preferred payment method.
+&lt;figure&gt;&lt;img src="https://isc25.skku.edu/img/regis_3.png" width="600"&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;If your payment service does not appear in the list, choose &lt;strong&gt;Other Card&lt;/strong&gt;.&lt;br&gt;
+Scroll down to select your card (VISA, Mastercard, AMEX, JCB, UnionPay) and complete the payment.&lt;/p&gt;</description></item></channel></rss>
