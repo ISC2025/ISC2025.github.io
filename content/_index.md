@@ -23,6 +23,7 @@ a separate LNCS volume by Springer.
 
 ## News
 
+-   Best Paper Award: _The Multi-User Security of GCM-SST and Further Enhancements_ \[10/22/2025\]
 -   The registration deadline has been extended to October 17th. \[10/10/2025\]
 -   Due to unexpected payment issues, we decided to offer a flat rate for the entire registration until October 13th. \[10/01/2025\]
 -   We have released the [registration guide](https://isc25.skku.edu/registration/guide/). If you forget your password, please let us know (for8821@g.skku.edu). \[9/23/2025\]

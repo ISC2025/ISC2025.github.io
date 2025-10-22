@@ -22,7 +22,7 @@ weight = 4
 | Zero Trust Continuous Authentication Models and Automated Policy Formulation                                                   | N. Vombatkere, P. W. L. Fong                                                          |
 | A New Code-Based Formulation of the Fuzzy Vault Scheme                                                                         | S. Majbour, M. Barbier, J.-M. Le Bars                                                 |
 | Jakiro: A Cross-modal Contrastive Learning Framework for Detecting Vulnerabilities in Smart Contracts                          | Z. Niu, X. Li, H. Zhao, T. Zhou, H. Cheng                                             |
-| The Multi-User Security of GCM-SST and Further Enhancements                                                                    | Y. Naito, Y. Sasaki, T. Sugawara                                                      |
+| **(Best Paper Award)** The Multi-User Security of GCM-SST and Further Enhancements                                             | Y. Naito, Y. Sasaki, T. Sugawara                                                      |
 | GIR-Cache: Mitigating Conflict-Based Cache Side-Channel Attacks Via Global Indirect Replacement                                | H. Ma, Z. Wang, D. Xie, C. Ouyang, W. Song                                            |
 | Inference Attacks on Encrypted Online Voting via Traffic Analysis                                                              | A. Belousova, F. Marchiori, M. Conti                                                  |
 | MSPP-Net: Fine-grained image privacy identification via multi-stage semantic perception                                        | Y. Li, B. Chen, Q. Jiang, T. Chen                                                     |
